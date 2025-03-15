@@ -16,7 +16,7 @@ This project focuses on analyzing shopping trends in department stores across th
 ## 🛠️ Implementation
 
 ### 🔍 Data Gathering
-The dataset was obtained from [Kaggle](https://www.kaggle.com/), focusing on shopping trends in the USA.
+The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/mmohaiminulislam/ecommerce-data-analysis?select=time_dim.csv), focusing on shopping trends in the USA.
 
 ### 🧹 Data Preparation
 - **🛠️ Tools Used**: Python
