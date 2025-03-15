@@ -1,0 +1,6346 @@
+[
+    {
+        "customer_id": "CG-12520",
+        "customer_name": "Claire Gute",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 58138.0,
+        "Year_Birth": 1957
+    },
+    {
+        "customer_id": "DV-13045",
+        "customer_name": "Darrin Van Huff",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 46344.0,
+        "Year_Birth": 1954
+    },
+    {
+        "customer_id": "SO-20335",
+        "customer_name": "Sean O'Donnell",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 71613.0,
+        "Year_Birth": 1965
+    },
+    {
+        "customer_id": "BH-11710",
+        "customer_name": "Brosina Hoffman",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 26646.0,
+        "Year_Birth": 1984
+    },
+    {
+        "customer_id": "AA-10480",
+        "customer_name": "Andrew Allen",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 58293.0,
+        "Year_Birth": 1981
+    },
+    {
+        "customer_id": "IM-15070",
+        "customer_name": "Irene Maddox",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 62513.0,
+        "Year_Birth": 1967
+    },
+    {
+        "customer_id": "HP-14815",
+        "customer_name": "Harold Pawlan",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 55635.0,
+        "Year_Birth": 1971
+    },
+    {
+        "customer_id": "PK-19075",
+        "customer_name": "Pete Kriz",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 33454.0,
+        "Year_Birth": 1985
+    },
+    {
+        "customer_id": "AG-10270",
+        "customer_name": "Alejandro Grove",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 30351.0,
+        "Year_Birth": 1974
+    },
+    {
+        "customer_id": "ZD-21925",
+        "customer_name": "Zuschuss Donatelli",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 5648.0,
+        "Year_Birth": 1950
+    },
+    {
+        "customer_id": "KB-16585",
+        "customer_name": "Ken Black",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": null,
+        "Year_Birth": 1983
+    },
+    {
+        "customer_id": "SF-20065",
+        "customer_name": "Sandra Flanagan",
+        "Education": "Basic",
+        "Marital_Status": "Married",
+        "Income": 7500.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "EB-13870",
+        "customer_name": "Emily Burns",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 63033.0,
+        "Year_Birth": 1959
+    },
+    {
+        "customer_id": "EH-13945",
+        "customer_name": "Eric Hoffmann",
+        "Education": "Master",
+        "Marital_Status": "Divorced",
+        "Income": 59354.0,
+        "Year_Birth": 1952
+    },
+    {
+        "customer_id": "TB-21520",
+        "customer_name": "Tracy Blumstein",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 17323.0,
+        "Year_Birth": 1987
+    },
+    {
+        "customer_id": "MA-17560",
+        "customer_name": "Matt Abelman",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 82800.0,
+        "Year_Birth": 1946
+    },
+    {
+        "customer_id": "GH-14485",
+        "customer_name": "Gene Hale",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 41850.0,
+        "Year_Birth": 1980
+    },
+    {
+        "customer_id": "SN-20710",
+        "customer_name": "Steve Nguyen",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 37760.0,
+        "Year_Birth": 1946
+    },
+    {
+        "customer_id": "LC-16930",
+        "customer_name": "Linda Cazamias",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 76995.0,
+        "Year_Birth": 1949
+    },
+    {
+        "customer_id": "RA-19885",
+        "customer_name": "Ruben Ausman",
+        "Education": "2n Cycle",
+        "Marital_Status": "Single",
+        "Income": 33812.0,
+        "Year_Birth": 1985
+    },
+    {
+        "customer_id": "ES-14080",
+        "customer_name": "Erin Smith",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 37040.0,
+        "Year_Birth": 1982
+    },
+    {
+        "customer_id": "ON-18715",
+        "customer_name": "Odella Nelson",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 2447.0,
+        "Year_Birth": 1979
+    },
+    {
+        "customer_id": "PO-18865",
+        "customer_name": "Patrick O'Donnell",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 58607.0,
+        "Year_Birth": 1949
+    },
+    {
+        "customer_id": "LH-16900",
+        "customer_name": "Lena Hernandez",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 65324.0,
+        "Year_Birth": 1954
+    },
+    {
+        "customer_id": "DP-13000",
+        "customer_name": "Darren Powers",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 40689.0,
+        "Year_Birth": 1951
+    },
+    {
+        "customer_id": "JM-15265",
+        "customer_name": "Janet Molinari",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 18589.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "TB-21055",
+        "customer_name": "Ted Butterfield",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 53359.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "KM-16720",
+        "customer_name": "Kunst Miller",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": null,
+        "Year_Birth": 1986
+    },
+    {
+        "customer_id": "PS-18970",
+        "customer_name": "Paul Stevenson",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 38360.0,
+        "Year_Birth": 1989
+    },
+    {
+        "customer_id": "BS-11590",
+        "customer_name": "Brendan Sweed",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 84618.0,
+        "Year_Birth": 1965
+    },
+    {
+        "customer_id": "KD-16270",
+        "customer_name": "Karen Daniels",
+        "Education": "Master",
+        "Marital_Status": "Divorced",
+        "Income": 10979.0,
+        "Year_Birth": 1989
+    },
+    {
+        "customer_id": "HM-14980",
+        "customer_name": "Henry MacAllister",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 38620.0,
+        "Year_Birth": 1963
+    },
+    {
+        "customer_id": "JE-15745",
+        "customer_name": "Joel Eaton",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 40548.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "KB-16600",
+        "customer_name": "Ken Brennan",
+        "Education": "PhD",
+        "Marital_Status": "Divorced",
+        "Income": 46610.0,
+        "Year_Birth": 1952
+    },
+    {
+        "customer_id": "SC-20770",
+        "customer_name": "Stewart Carmichael",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 68657.0,
+        "Year_Birth": 1946
+    },
+    {
+        "customer_id": "DN-13690",
+        "customer_name": "Duane Noonan",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 49389.0,
+        "Year_Birth": 1951
+    },
+    {
+        "customer_id": "JC-16105",
+        "customer_name": "Julie Creighton",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 67353.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "CS-12400",
+        "customer_name": "Christopher Schild",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": 23718.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "PG-18895",
+        "customer_name": "Paul Gonzalez",
+        "Education": "Graduation",
+        "Marital_Status": "Widow",
+        "Income": 42429.0,
+        "Year_Birth": 1973
+    },
+    {
+        "customer_id": "GM-14455",
+        "customer_name": "Gary Mitchum",
+        "Education": "PhD",
+        "Marital_Status": "Divorced",
+        "Income": 48948.0,
+        "Year_Birth": 1943
+    },
+    {
+        "customer_id": "JS-15685",
+        "customer_name": "Jim Sink",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 80011.0,
+        "Year_Birth": 1980
+    },
+    {
+        "customer_id": "KB-16315",
+        "customer_name": "Karl Braun",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 20559.0,
+        "Year_Birth": 1985
+    },
+    {
+        "customer_id": "RB-19705",
+        "customer_name": "Roger Barcio",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 21994.0,
+        "Year_Birth": 1957
+    },
+    {
+        "customer_id": "PN-18775",
+        "customer_name": "Parhena Norris",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": null,
+        "Year_Birth": 1959
+    },
+    {
+        "customer_id": "KD-16345",
+        "customer_name": "Katherine Ducich",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 7500.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "ER-13855",
+        "customer_name": "Elpida Rittenbach",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 79941.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "RB-19465",
+        "customer_name": "Rick Bensley",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": 7500.0,
+        "Year_Birth": 1996
+    },
+    {
+        "customer_id": "GZ-14470",
+        "customer_name": "Gary Zandusky",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 41728.0,
+        "Year_Birth": 1968
+    },
+    {
+        "customer_id": "LC-16870",
+        "customer_name": "Lena Cacioppo",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": null,
+        "Year_Birth": 1951
+    },
+    {
+        "customer_id": "JM-15250",
+        "customer_name": "Janet Martin",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 72550.0,
+        "Year_Birth": 1954
+    },
+    {
+        "customer_id": "PA-19060",
+        "customer_name": "Pete Armstrong",
+        "Education": "Graduation",
+        "Marital_Status": "Widow",
+        "Income": 65486.0,
+        "Year_Birth": 1957
+    },
+    {
+        "customer_id": "CV-12805",
+        "customer_name": "Cynthia Voltz",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 79143.0,
+        "Year_Birth": 1964
+    },
+    {
+        "customer_id": "CL-12565",
+        "customer_name": "Clay Ludtke",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 35790.0,
+        "Year_Birth": 1977
+    },
+    {
+        "customer_id": "RC-19960",
+        "customer_name": "Ryan Crowe",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 82582.0,
+        "Year_Birth": 1977
+    },
+    {
+        "customer_id": "DK-13090",
+        "customer_name": "Dave Kipp",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 66373.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "GG-14650",
+        "customer_name": "Greg Guthrie",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 82384.0,
+        "Year_Birth": 1955
+    },
+    {
+        "customer_id": "SC-20725",
+        "customer_name": "Steven Cartwright",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 70287.0,
+        "Year_Birth": 1966
+    },
+    {
+        "customer_id": "AD-10180",
+        "customer_name": "Alan Dominguez",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 27938.0,
+        "Year_Birth": 1988
+    },
+    {
+        "customer_id": "PF-19165",
+        "customer_name": "Philip Fox",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": null,
+        "Year_Birth": 1982
+    },
+    {
+        "customer_id": "TS-21610",
+        "customer_name": "Troy Staebel",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 55954.0,
+        "Year_Birth": 1968
+    },
+    {
+        "customer_id": "LS-16975",
+        "customer_name": "Lindsay Shagiari",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 75777.0,
+        "Year_Birth": 1982
+    },
+    {
+        "customer_id": "DW-13585",
+        "customer_name": "Dorothy Wardle",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 66653.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "LC-16885",
+        "customer_name": "Lena Creighton",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 61823.0,
+        "Year_Birth": 1952
+    },
+    {
+        "customer_id": "JD-15895",
+        "customer_name": "Jonathan Doherty",
+        "Education": "PhD",
+        "Marital_Status": "Widow",
+        "Income": 67680.0,
+        "Year_Birth": 1951
+    },
+    {
+        "customer_id": "SH-19975",
+        "customer_name": "Sally Hughsby",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 70666.0,
+        "Year_Birth": 1948
+    },
+    {
+        "customer_id": "SG-20080",
+        "customer_name": "Sandra Glassco",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 25721.0,
+        "Year_Birth": 1971
+    },
+    {
+        "customer_id": "HA-14920",
+        "customer_name": "Helen Andreada",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 32474.0,
+        "Year_Birth": 1967
+    },
+    {
+        "customer_id": "MG-17680",
+        "customer_name": "Maureen Gastineau",
+        "Education": "2n Cycle",
+        "Marital_Status": "Single",
+        "Income": 88194.0,
+        "Year_Birth": 1979
+    },
+    {
+        "customer_id": "JE-16165",
+        "customer_name": "Justin Ellison",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 69096.0,
+        "Year_Birth": 1958
+    },
+    {
+        "customer_id": "TW-21025",
+        "customer_name": "Tamara Willingham",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 74854.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "SP-20650",
+        "customer_name": "Stephanie Phelps",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 66991.0,
+        "Year_Birth": 1954
+    },
+    {
+        "customer_id": "NK-18490",
+        "customer_name": "Neil Knudson",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": null,
+        "Year_Birth": 1973
+    },
+    {
+        "customer_id": "DB-13060",
+        "customer_name": "Dave Brooks",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 65031.0,
+        "Year_Birth": 1959
+    },
+    {
+        "customer_id": "NP-18670",
+        "customer_name": "Nora Paige",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 60631.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "TT-21070",
+        "customer_name": "Ted Trevino",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 28332.0,
+        "Year_Birth": 1952
+    },
+    {
+        "customer_id": "EM-13960",
+        "customer_name": "Eric Murdock",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 40246.0,
+        "Year_Birth": 1977
+    },
+    {
+        "customer_id": "RD-19900",
+        "customer_name": "Ruben Dartt",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 75251.0,
+        "Year_Birth": 1972
+    },
+    {
+        "customer_id": "MJ-17740",
+        "customer_name": "Max Jones",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 75825.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "BM-11140",
+        "customer_name": "Becky Martin",
+        "Education": "2n Cycle",
+        "Marital_Status": "Together",
+        "Income": 26326.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "CS-12130",
+        "customer_name": "Chad Sievert",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 56046.0,
+        "Year_Birth": 1965
+    },
+    {
+        "customer_id": "JB-15400",
+        "customer_name": "Jennifer Braxton",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 29760.0,
+        "Year_Birth": 1985
+    },
+    {
+        "customer_id": "SJ-20500",
+        "customer_name": "Shirley Jackson",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 26304.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "JK-15640",
+        "customer_name": "Jim Kriz",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": 23559.0,
+        "Year_Birth": 1973
+    },
+    {
+        "customer_id": "DK-13150",
+        "customer_name": "David Kendrick",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 38620.0,
+        "Year_Birth": 1963
+    },
+    {
+        "customer_id": "RM-19675",
+        "customer_name": "Robert Marley",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 81361.0,
+        "Year_Birth": 1987
+    },
+    {
+        "customer_id": "SK-19990",
+        "customer_name": "Sally Knutson",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 29440.0,
+        "Year_Birth": 1960
+    },
+    {
+        "customer_id": "FM-14290",
+        "customer_name": "Frank Merwin",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 36138.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "AM-10360",
+        "customer_name": "Alice McCarthy",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 50388.0,
+        "Year_Birth": 1957
+    },
+    {
+        "customer_id": "MP-17470",
+        "customer_name": "Mark Packer",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 79593.0,
+        "Year_Birth": 1973
+    },
+    {
+        "customer_id": "MZ-17515",
+        "customer_name": "Mary Zewe",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 54178.0,
+        "Year_Birth": 1967
+    },
+    {
+        "customer_id": "CB-12025",
+        "customer_name": "Cassandra Brandow",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": null,
+        "Year_Birth": 1957
+    },
+    {
+        "customer_id": "VM-21685",
+        "customer_name": "Valerie Mitchum",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": null,
+        "Year_Birth": 1957
+    },
+    {
+        "customer_id": "FH-14365",
+        "customer_name": "Fred Hopkins",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": null,
+        "Year_Birth": 1973
+    },
+    {
+        "customer_id": "MB-17305",
+        "customer_name": "Maria Bertelson",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 42394.0,
+        "Year_Birth": 1972
+    },
+    {
+        "customer_id": "BS-11755",
+        "customer_name": "Bruce Stewart",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 23626.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "LC-17140",
+        "customer_name": "Logan Currie",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 30096.0,
+        "Year_Birth": 1983
+    },
+    {
+        "customer_id": "HK-14890",
+        "customer_name": "Heather Kirkland",
+        "Education": "Graduation",
+        "Marital_Status": "Widow",
+        "Income": 47916.0,
+        "Year_Birth": 1960
+    },
+    {
+        "customer_id": "LE-16810",
+        "customer_name": "Laurel Elliston",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 51813.0,
+        "Year_Birth": 1972
+    },
+    {
+        "customer_id": "JH-15985",
+        "customer_name": "Joseph Holt",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": 78497.0,
+        "Year_Birth": 1951
+    },
+    {
+        "customer_id": "MS-17980",
+        "customer_name": "Michael Stewart",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 50150.0,
+        "Year_Birth": 1983
+    },
+    {
+        "customer_id": "VW-21775",
+        "customer_name": "Victoria Wilson",
+        "Education": "2n Cycle",
+        "Marital_Status": "Single",
+        "Income": 47823.0,
+        "Year_Birth": 1960
+    },
+    {
+        "customer_id": "JH-15910",
+        "customer_name": "Jonathan Howell",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 34554.0,
+        "Year_Birth": 1959
+    },
+    {
+        "customer_id": "JB-15925",
+        "customer_name": "Joni Blumstein",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 85693.0,
+        "Year_Birth": 1979
+    },
+    {
+        "customer_id": "DS-13180",
+        "customer_name": "David Smith",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 65846.0,
+        "Year_Birth": 1945
+    },
+    {
+        "customer_id": "VD-21670",
+        "customer_name": "Valerie Dominguez",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 87195.0,
+        "Year_Birth": 1959
+    },
+    {
+        "customer_id": "EA-14035",
+        "customer_name": "Erin Ashbrook",
+        "Education": "Basic",
+        "Marital_Status": "Together",
+        "Income": 24594.0,
+        "Year_Birth": 1979
+    },
+    {
+        "customer_id": "DB-13120",
+        "customer_name": "David Bremer",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 49096.0,
+        "Year_Birth": 1964
+    },
+    {
+        "customer_id": "KL-16645",
+        "customer_name": "Ken Lonsdale",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 52413.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "DW-13480",
+        "customer_name": "Dianna Wilson",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 38557.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "LH-17155",
+        "customer_name": "Logan Haushalter",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 89058.0,
+        "Year_Birth": 1960
+    },
+    {
+        "customer_id": "KC-16540",
+        "customer_name": "Kelly Collister",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 77298.0,
+        "Year_Birth": 1979
+    },
+    {
+        "customer_id": "DL-13315",
+        "customer_name": "Delfina Latchford",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 68126.0,
+        "Year_Birth": 1991
+    },
+    {
+        "customer_id": "DR-12880",
+        "customer_name": "Dan Reichenbach",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 57288.0,
+        "Year_Birth": 1963
+    },
+    {
+        "customer_id": "CC-12670",
+        "customer_name": "Craig Carreira",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 86037.0,
+        "Year_Birth": 1991
+    },
+    {
+        "customer_id": "Dl-13600",
+        "customer_name": "Dorris liebe",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 43974.0,
+        "Year_Birth": 1980
+    },
+    {
+        "customer_id": "SB-20290",
+        "customer_name": "Sean Braxton",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 50785.0,
+        "Year_Birth": 1962
+    },
+    {
+        "customer_id": "RC-19825",
+        "customer_name": "Roy Collins",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 90765.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "AH-10210",
+        "customer_name": "Alan Hwang",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": 36550.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "CB-12535",
+        "customer_name": "Claudia Bergmann",
+        "Education": "2n Cycle",
+        "Marital_Status": "Together",
+        "Income": 30753.0,
+        "Year_Birth": 1967
+    },
+    {
+        "customer_id": "CA-12310",
+        "customer_name": "Christine Abelman",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 21918.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "KH-16690",
+        "customer_name": "Kristen Hastings",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 56129.0,
+        "Year_Birth": 1953
+    },
+    {
+        "customer_id": "BB-10990",
+        "customer_name": "Barry Blumstein",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 32557.0,
+        "Year_Birth": 1967
+    },
+    {
+        "customer_id": "AG-10495",
+        "customer_name": "Andrew Gjertsen",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 19510.0,
+        "Year_Birth": 1985
+    },
+    {
+        "customer_id": "JO-15280",
+        "customer_name": "Jas O'Carroll",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 30992.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "AH-10195",
+        "customer_name": "Alan Haines",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 101970.0,
+        "Year_Birth": 1983
+    },
+    {
+        "customer_id": "NZ-18565",
+        "customer_name": "Nick Zandusky",
+        "Education": "2n Cycle",
+        "Marital_Status": "Together",
+        "Income": 71488.0,
+        "Year_Birth": 1965
+    },
+    {
+        "customer_id": "KL-16555",
+        "customer_name": "Kelly Lampkin",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 79607.0,
+        "Year_Birth": 1984
+    },
+    {
+        "customer_id": "AS-10225",
+        "customer_name": "Alan Schoenberger",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 54348.0,
+        "Year_Birth": 1953
+    },
+    {
+        "customer_id": "CR-12625",
+        "customer_name": "Corey Roper",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": null,
+        "Year_Birth": 1961
+    },
+    {
+        "customer_id": "SH-20395",
+        "customer_name": "Shahid Hopkins",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 77376.0,
+        "Year_Birth": 1956
+    },
+    {
+        "customer_id": "BP-11185",
+        "customer_name": "Ben Peterman",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 62998.0,
+        "Year_Birth": 1952
+    },
+    {
+        "customer_id": "TS-21205",
+        "customer_name": "Thomas Seio",
+        "Education": "Master",
+        "Marital_Status": "Alone",
+        "Income": 61331.0,
+        "Year_Birth": 1958
+    },
+    {
+        "customer_id": "AG-10525",
+        "customer_name": "Andy Gerbode",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 73448.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "SP-20860",
+        "customer_name": "Sung Pak",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": null,
+        "Year_Birth": 1963
+    },
+    {
+        "customer_id": "NM-18445",
+        "customer_name": "Nathan Mautz",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 41551.0,
+        "Year_Birth": 1964
+    },
+    {
+        "customer_id": "FA-14230",
+        "customer_name": "Frank Atkinson",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 62981.0,
+        "Year_Birth": 1967
+    },
+    {
+        "customer_id": "GK-14620",
+        "customer_name": "Grace Kelly",
+        "Education": "Basic",
+        "Marital_Status": "Divorced",
+        "Income": 9548.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "DJ-13510",
+        "customer_name": "Don Jones",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 33762.0,
+        "Year_Birth": 1959
+    },
+    {
+        "customer_id": "PO-18850",
+        "customer_name": "Patrick O'Brill",
+        "Education": "PhD",
+        "Marital_Status": "Alone",
+        "Income": 35860.0,
+        "Year_Birth": 1973
+    },
+    {
+        "customer_id": "JL-15850",
+        "customer_name": "John Lucas",
+        "Education": "PhD",
+        "Marital_Status": "Divorced",
+        "Income": 36921.0,
+        "Year_Birth": 1965
+    },
+    {
+        "customer_id": "DB-13615",
+        "customer_name": "Doug Bickford",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 92859.0,
+        "Year_Birth": 1992
+    },
+    {
+        "customer_id": "AC-10420",
+        "customer_name": "Alyssa Crouse",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 65104.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "CC-12550",
+        "customer_name": "Clay Cheatham",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 86111.0,
+        "Year_Birth": 1962
+    },
+    {
+        "customer_id": "TD-20995",
+        "customer_name": "Tamara Dahlen",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 68352.0,
+        "Year_Birth": 1974
+    },
+    {
+        "customer_id": "AB-10060",
+        "customer_name": "Adam Bellavance",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 41883.0,
+        "Year_Birth": 1988
+    },
+    {
+        "customer_id": "JL-15505",
+        "customer_name": "Jeremy Lonsdale",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 59809.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "VB-21745",
+        "customer_name": "Victoria Brennan",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 23957.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "KW-16435",
+        "customer_name": "Katrina Willman",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 38547.0,
+        "Year_Birth": 1981
+    },
+    {
+        "customer_id": "JD-16060",
+        "customer_name": "Julia Dunbar",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": 35688.0,
+        "Year_Birth": 1973
+    },
+    {
+        "customer_id": "MK-17905",
+        "customer_name": "Michael Kennedy",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 49605.0,
+        "Year_Birth": 1966
+    },
+    {
+        "customer_id": "GT-14755",
+        "customer_name": "Guy Thornton",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 59354.0,
+        "Year_Birth": 1953
+    },
+    {
+        "customer_id": "AG-10900",
+        "customer_name": "Arthur Gainer",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 65747.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "MM-18280",
+        "customer_name": "Muhammed MacIntyre",
+        "Education": "2n Cycle",
+        "Marital_Status": "Together",
+        "Income": 46344.0,
+        "Year_Birth": 1972
+    },
+    {
+        "customer_id": "AR-10405",
+        "customer_name": "Allen Rosenblatt",
+        "Education": "Graduation",
+        "Marital_Status": "Alone",
+        "Income": 34176.0,
+        "Year_Birth": 1988
+    },
+    {
+        "customer_id": "RA-19915",
+        "customer_name": "Russell Applegate",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 61010.0,
+        "Year_Birth": 1952
+    },
+    {
+        "customer_id": "AS-10285",
+        "customer_name": "Alejandro Savely",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 69372.0,
+        "Year_Birth": 1949
+    },
+    {
+        "customer_id": "LA-16780",
+        "customer_name": "Laura Armstrong",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 49967.0,
+        "Year_Birth": 1958
+    },
+    {
+        "customer_id": "DO-13435",
+        "customer_name": "Denny Ordway",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 60199.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "DK-13225",
+        "customer_name": "Dean Katz",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 55375.0,
+        "Year_Birth": 1977
+    },
+    {
+        "customer_id": "NG-18430",
+        "customer_name": "Nathan Gelder",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 80317.0,
+        "Year_Birth": 1955
+    },
+    {
+        "customer_id": "MV-18190",
+        "customer_name": "Mike Vittorini",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 30523.0,
+        "Year_Birth": 1958
+    },
+    {
+        "customer_id": "JG-15115",
+        "customer_name": "Jack Garza",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 70356.0,
+        "Year_Birth": 1945
+    },
+    {
+        "customer_id": "BP-11095",
+        "customer_name": "Bart Pistole",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 23228.0,
+        "Year_Birth": 1984
+    },
+    {
+        "customer_id": "VP-21730",
+        "customer_name": "Victor Preis",
+        "Education": "PhD",
+        "Marital_Status": "Divorced",
+        "Income": 74165.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "SS-20140",
+        "customer_name": "Saphhira Shifley",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 157243.0,
+        "Year_Birth": 1973
+    },
+    {
+        "customer_id": "AG-10675",
+        "customer_name": "Anna Gayman",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 43482.0,
+        "Year_Birth": 1966
+    },
+    {
+        "customer_id": "LF-17185",
+        "customer_name": "Luke Foster",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 62551.0,
+        "Year_Birth": 1953
+    },
+    {
+        "customer_id": "RF-19840",
+        "customer_name": "Roy Franz\u00f6sisch",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 52332.0,
+        "Year_Birth": 1959
+    },
+    {
+        "customer_id": "KH-16510",
+        "customer_name": "Keith Herrera",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 66951.0,
+        "Year_Birth": 1988
+    },
+    {
+        "customer_id": "KC-16675",
+        "customer_name": "Kimberly Carter",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 26091.0,
+        "Year_Birth": 1957
+    },
+    {
+        "customer_id": "CJ-12010",
+        "customer_name": "Caroline Jumper",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 33456.0,
+        "Year_Birth": 1965
+    },
+    {
+        "customer_id": "PB-19150",
+        "customer_name": "Philip Brown",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 28718.0,
+        "Year_Birth": 1982
+    },
+    {
+        "customer_id": "MP-17965",
+        "customer_name": "Michael Paige",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 50447.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "NF-18385",
+        "customer_name": "Natalie Fritzler",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 53537.0,
+        "Year_Birth": 1959
+    },
+    {
+        "customer_id": "SD-20485",
+        "customer_name": "Shirley Daniels",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 52074.0,
+        "Year_Birth": 1967
+    },
+    {
+        "customer_id": "KH-16630",
+        "customer_name": "Ken Heidel",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 80427.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "RB-19795",
+        "customer_name": "Ross Baird",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 83837.0,
+        "Year_Birth": 1948
+    },
+    {
+        "customer_id": "MK-18160",
+        "customer_name": "Mike Kennedy",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 38853.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "PO-19180",
+        "customer_name": "Philisse Overcash",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 38285.0,
+        "Year_Birth": 1959
+    },
+    {
+        "customer_id": "BB-11545",
+        "customer_name": "Brenda Bowman",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": 78497.0,
+        "Year_Birth": 1951
+    },
+    {
+        "customer_id": "TB-21595",
+        "customer_name": "Troy Blackwell",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 51650.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "RB-19360",
+        "customer_name": "Raymond Buch",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": 16248.0,
+        "Year_Birth": 1988
+    },
+    {
+        "customer_id": "EB-13705",
+        "customer_name": "Ed Braxton",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 66835.0,
+        "Year_Birth": 1946
+    },
+    {
+        "customer_id": "SC-20095",
+        "customer_name": "Sanjit Chand",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 30477.0,
+        "Year_Birth": 1984
+    },
+    {
+        "customer_id": "TN-21040",
+        "customer_name": "Tanja Norvell",
+        "Education": "Basic",
+        "Marital_Status": "Married",
+        "Income": 28249.0,
+        "Year_Birth": 1961
+    },
+    {
+        "customer_id": "JS-15940",
+        "customer_name": "Joni Sundaresam",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 25271.0,
+        "Year_Birth": 1983
+    },
+    {
+        "customer_id": "MH-17785",
+        "customer_name": "Maya Herman",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 32303.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "JP-15520",
+        "customer_name": "Jeremy Pistek",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 61286.0,
+        "Year_Birth": 1966
+    },
+    {
+        "customer_id": "JE-15475",
+        "customer_name": "Jeremy Ellison",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 74068.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "JG-15805",
+        "customer_name": "John Grady",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 45759.0,
+        "Year_Birth": 1964
+    },
+    {
+        "customer_id": "XP-21865",
+        "customer_name": "Xylona Preis",
+        "Education": "Basic",
+        "Marital_Status": "Together",
+        "Income": 24882.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "EM-14065",
+        "customer_name": "Erin Mull",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 66973.0,
+        "Year_Birth": 1989
+    },
+    {
+        "customer_id": "MT-18070",
+        "customer_name": "Michelle Tran",
+        "Education": "2n Cycle",
+        "Marital_Status": "Divorced",
+        "Income": 36640.0,
+        "Year_Birth": 1900
+    },
+    {
+        "customer_id": "SA-20830",
+        "customer_name": "Sue Ann Reed",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 38872.0,
+        "Year_Birth": 1988
+    },
+    {
+        "customer_id": "CW-11905",
+        "customer_name": "Carl Weiss",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 51148.0,
+        "Year_Birth": 1973
+    },
+    {
+        "customer_id": "AJ-10960",
+        "customer_name": "Astrea Jones",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 31353.0,
+        "Year_Birth": 1977
+    },
+    {
+        "customer_id": "SS-20590",
+        "customer_name": "Sonia Sunley",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 69661.0,
+        "Year_Birth": 1980
+    },
+    {
+        "customer_id": "RO-19780",
+        "customer_name": "Rose O'Brian",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 80067.0,
+        "Year_Birth": 1954
+    },
+    {
+        "customer_id": "MD-17350",
+        "customer_name": "Maribeth Dona",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 86718.0,
+        "Year_Birth": 1954
+    },
+    {
+        "customer_id": "MY-17380",
+        "customer_name": "Maribeth Yedwab",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 46854.0,
+        "Year_Birth": 1973
+    },
+    {
+        "customer_id": "CM-12385",
+        "customer_name": "Christopher Martinez",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 69142.0,
+        "Year_Birth": 1952
+    },
+    {
+        "customer_id": "LS-17245",
+        "customer_name": "Lynn Smith",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 75922.0,
+        "Year_Birth": 1968
+    },
+    {
+        "customer_id": "BN-11515",
+        "customer_name": "Bradley Nguyen",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 63693.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "DB-13210",
+        "customer_name": "Dean Braden",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 102160.0,
+        "Year_Birth": 1977
+    },
+    {
+        "customer_id": "MC-17605",
+        "customer_name": "Matt Connell",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 40637.0,
+        "Year_Birth": 1965
+    },
+    {
+        "customer_id": "BD-11605",
+        "customer_name": "Brian Dahlen",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 18890.0,
+        "Year_Birth": 1984
+    },
+    {
+        "customer_id": "PH-18790",
+        "customer_name": "Patricia Hirasaki",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 29604.0,
+        "Year_Birth": 1988
+    },
+    {
+        "customer_id": "MG-18145",
+        "customer_name": "Mike Gockenbach",
+        "Education": "Master",
+        "Marital_Status": "Divorced",
+        "Income": 48721.0,
+        "Year_Birth": 1963
+    },
+    {
+        "customer_id": "KB-16240",
+        "customer_name": "Karen Bern",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 44794.0,
+        "Year_Birth": 1966
+    },
+    {
+        "customer_id": "JC-15340",
+        "customer_name": "Jasper Cacioppo",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 64497.0,
+        "Year_Birth": 1954
+    },
+    {
+        "customer_id": "RL-19615",
+        "customer_name": "Rob Lucas",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 46097.0,
+        "Year_Birth": 1956
+    },
+    {
+        "customer_id": "AA-10375",
+        "customer_name": "Allen Armold",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 77972.0,
+        "Year_Birth": 1954
+    },
+    {
+        "customer_id": "EP-13915",
+        "customer_name": "Emily Phan",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 44377.0,
+        "Year_Birth": 1968
+    },
+    {
+        "customer_id": "DK-12985",
+        "customer_name": "Darren Koutras",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 46014.0,
+        "Year_Birth": 1974
+    },
+    {
+        "customer_id": "BD-11500",
+        "customer_name": "Bradley Drucker",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 70951.0,
+        "Year_Birth": 1985
+    },
+    {
+        "customer_id": "LM-17065",
+        "customer_name": "Liz MacKendrick",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 41443.0,
+        "Year_Birth": 1977
+    },
+    {
+        "customer_id": "AS-10135",
+        "customer_name": "Adrian Shami",
+        "Education": "2n Cycle",
+        "Marital_Status": "Single",
+        "Income": 52195.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "BD-11320",
+        "customer_name": "Bill Donatelli",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 83790.0,
+        "Year_Birth": 1948
+    },
+    {
+        "customer_id": "GT-14710",
+        "customer_name": "Greg Tran",
+        "Education": "Master",
+        "Marital_Status": "Widow",
+        "Income": 44551.0,
+        "Year_Birth": 1954
+    },
+    {
+        "customer_id": "AJ-10945",
+        "customer_name": "Ashley Jarboe",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 69508.0,
+        "Year_Birth": 1980
+    },
+    {
+        "customer_id": "OT-18730",
+        "customer_name": "Olvera Toch",
+        "Education": "2n Cycle",
+        "Marital_Status": "Together",
+        "Income": 45204.0,
+        "Year_Birth": 1988
+    },
+    {
+        "customer_id": "LP-17080",
+        "customer_name": "Liz Pelletier",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 72460.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "CA-12775",
+        "customer_name": "Cynthia Arntzen",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 77622.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "JF-15490",
+        "customer_name": "Jeremy Farry",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 30732.0,
+        "Year_Birth": 1980
+    },
+    {
+        "customer_id": "FP-14320",
+        "customer_name": "Frank Preis",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 63887.0,
+        "Year_Birth": 1962
+    },
+    {
+        "customer_id": "EB-13840",
+        "customer_name": "Ellis Ballard",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 42011.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "JF-15415",
+        "customer_name": "Jennifer Ferguson",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 51369.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "SF-20200",
+        "customer_name": "Sarah Foster",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 51537.0,
+        "Year_Birth": 1952
+    },
+    {
+        "customer_id": "TG-21640",
+        "customer_name": "Trudy Glocke",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 79930.0,
+        "Year_Birth": 1972
+    },
+    {
+        "customer_id": "CS-11950",
+        "customer_name": "Carlos Soltero",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 34320.0,
+        "Year_Birth": 1986
+    },
+    {
+        "customer_id": "CC-12145",
+        "customer_name": "Charles Crestani",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 37070.0,
+        "Year_Birth": 1966
+    },
+    {
+        "customer_id": "DV-13465",
+        "customer_name": "Dianna Vittorini",
+        "Education": "2n Cycle",
+        "Marital_Status": "Divorced",
+        "Income": 81975.0,
+        "Year_Birth": 1962
+    },
+    {
+        "customer_id": "BD-11725",
+        "customer_name": "Bruce Degenhardt",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 38590.0,
+        "Year_Birth": 1971
+    },
+    {
+        "customer_id": "ZC-21910",
+        "customer_name": "Zuschuss Carroll",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 15033.0,
+        "Year_Birth": 1951
+    },
+    {
+        "customer_id": "MS-17830",
+        "customer_name": "Melanie Seite",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 62745.0,
+        "Year_Birth": 1965
+    },
+    {
+        "customer_id": "LR-16915",
+        "customer_name": "Lena Radford",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": 22212.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "TP-21130",
+        "customer_name": "Theone Pippenger",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 23661.0,
+        "Year_Birth": 1982
+    },
+    {
+        "customer_id": "CK-12205",
+        "customer_name": "Chloris Kastensmidt",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 79761.0,
+        "Year_Birth": 1958
+    },
+    {
+        "customer_id": "AS-10240",
+        "customer_name": "Alan Shonely",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 7500.0,
+        "Year_Birth": 1973
+    },
+    {
+        "customer_id": "AR-10510",
+        "customer_name": "Andrew Roberts",
+        "Education": "2n Cycle",
+        "Marital_Status": "Single",
+        "Income": 60182.0,
+        "Year_Birth": 1893
+    },
+    {
+        "customer_id": "NB-18655",
+        "customer_name": "Nona Balk",
+        "Education": "Graduation",
+        "Marital_Status": "Widow",
+        "Income": 73455.0,
+        "Year_Birth": 1968
+    },
+    {
+        "customer_id": "GD-14590",
+        "customer_name": "Giulietta Dortch",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 64961.0,
+        "Year_Birth": 1958
+    },
+    {
+        "customer_id": "CK-12595",
+        "customer_name": "Clytie Kelty",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 22804.0,
+        "Year_Birth": 1971
+    },
+    {
+        "customer_id": "NG-18355",
+        "customer_name": "Nat Gilpin",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 73687.0,
+        "Year_Birth": 1990
+    },
+    {
+        "customer_id": "CA-12265",
+        "customer_name": "Christina Anderson",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 61074.0,
+        "Year_Birth": 1958
+    },
+    {
+        "customer_id": "SF-20965",
+        "customer_name": "Sylvia Foulston",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 31686.0,
+        "Year_Birth": 1964
+    },
+    {
+        "customer_id": "MO-17800",
+        "customer_name": "Meg O'Connel",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 80134.0,
+        "Year_Birth": 1972
+    },
+    {
+        "customer_id": "AT-10735",
+        "customer_name": "Annie Thurman",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 75027.0,
+        "Year_Birth": 1953
+    },
+    {
+        "customer_id": "FM-14380",
+        "customer_name": "Fred McMath",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 67546.0,
+        "Year_Birth": 1988
+    },
+    {
+        "customer_id": "DJ-13420",
+        "customer_name": "Denny Joy",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 65176.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "ME-17725",
+        "customer_name": "Max Engle",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 31160.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "JD-16150",
+        "customer_name": "Justin Deggeller",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 29938.0,
+        "Year_Birth": 1985
+    },
+    {
+        "customer_id": "JL-15835",
+        "customer_name": "John Lee",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 102692.0,
+        "Year_Birth": 1974
+    },
+    {
+        "customer_id": "SC-20305",
+        "customer_name": "Sean Christensen",
+        "Education": "2n Cycle",
+        "Marital_Status": "Together",
+        "Income": 26490.0,
+        "Year_Birth": 1958
+    },
+    {
+        "customer_id": "CC-12430",
+        "customer_name": "Chuck Clark",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 75702.0,
+        "Year_Birth": 1967
+    },
+    {
+        "customer_id": "AR-10825",
+        "customer_name": "Anthony Rawles",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 30899.0,
+        "Year_Birth": 1974
+    },
+    {
+        "customer_id": "SR-20740",
+        "customer_name": "Steven Roelle",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 63342.0,
+        "Year_Birth": 1961
+    },
+    {
+        "customer_id": "CR-12730",
+        "customer_name": "Craig Reiter",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 45989.0,
+        "Year_Birth": 1964
+    },
+    {
+        "customer_id": "EH-14125",
+        "customer_name": "Eugene Hildebrand",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 18701.0,
+        "Year_Birth": 1964
+    },
+    {
+        "customer_id": "SP-20545",
+        "customer_name": "Sibella Parks",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 40737.0,
+        "Year_Birth": 1957
+    },
+    {
+        "customer_id": "TH-21235",
+        "customer_name": "Tiffany House",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 15287.0,
+        "Year_Birth": 1979
+    },
+    {
+        "customer_id": "RP-19390",
+        "customer_name": "Resi P\u00f6lking",
+        "Education": "PhD",
+        "Marital_Status": "Divorced",
+        "Income": 69674.0,
+        "Year_Birth": 1968
+    },
+    {
+        "customer_id": "RB-19570",
+        "customer_name": "Rob Beeghly",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 44159.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "CD-11980",
+        "customer_name": "Carol Darley",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 37717.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "DJ-13630",
+        "customer_name": "Doug Jacobs",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 43776.0,
+        "Year_Birth": 1952
+    },
+    {
+        "customer_id": "GT-14635",
+        "customer_name": "Grant Thornton",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 38179.0,
+        "Year_Birth": 1966
+    },
+    {
+        "customer_id": "MC-17845",
+        "customer_name": "Michael Chen",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 80124.0,
+        "Year_Birth": 1963
+    },
+    {
+        "customer_id": "RA-19285",
+        "customer_name": "Ralph Arnett",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 38097.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "NP-18325",
+        "customer_name": "Naresj Patel",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 72940.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "AB-10165",
+        "customer_name": "Alan Barnes",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 22070.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "JO-15550",
+        "customer_name": "Jesus Ocampo",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 69267.0,
+        "Year_Birth": 1953
+    },
+    {
+        "customer_id": "JK-15370",
+        "customer_name": "Jay Kimmel",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 31788.0,
+        "Year_Birth": 1983
+    },
+    {
+        "customer_id": "BN-11470",
+        "customer_name": "Brad Norvell",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 61905.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "DP-13165",
+        "customer_name": "David Philippe",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 29315.0,
+        "Year_Birth": 1960
+    },
+    {
+        "customer_id": "TH-21550",
+        "customer_name": "Tracy Hopkins",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 33378.0,
+        "Year_Birth": 1963
+    },
+    {
+        "customer_id": "AP-10915",
+        "customer_name": "Arthur Prichep",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 66313.0,
+        "Year_Birth": 1963
+    },
+    {
+        "customer_id": "RS-19765",
+        "customer_name": "Roland Schwarz",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 60714.0,
+        "Year_Birth": 1956
+    },
+    {
+        "customer_id": "SV-20365",
+        "customer_name": "Seth Vernon",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 77882.0,
+        "Year_Birth": 1981
+    },
+    {
+        "customer_id": "CK-12325",
+        "customer_name": "Christine Kargatis",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 69867.0,
+        "Year_Birth": 1986
+    },
+    {
+        "customer_id": "RD-19810",
+        "customer_name": "Ross DeVincentis",
+        "Education": "Master",
+        "Marital_Status": "Divorced",
+        "Income": 63841.0,
+        "Year_Birth": 1968
+    },
+    {
+        "customer_id": "MR-17545",
+        "customer_name": "Mathew Reese",
+        "Education": "Basic",
+        "Marital_Status": "Married",
+        "Income": 24480.0,
+        "Year_Birth": 1981
+    },
+    {
+        "customer_id": "SC-20695",
+        "customer_name": "Steve Chapman",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 51369.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "JF-15355",
+        "customer_name": "Jay Fein",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 37760.0,
+        "Year_Birth": 1946
+    },
+    {
+        "customer_id": "EG-13900",
+        "customer_name": "Emily Grady",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 65640.0,
+        "Year_Birth": 1974
+    },
+    {
+        "customer_id": "DS-13030",
+        "customer_name": "Darrin Sayre",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 44319.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "PO-19195",
+        "customer_name": "Phillina Ober",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 30631.0,
+        "Year_Birth": 1974
+    },
+    {
+        "customer_id": "SS-20875",
+        "customer_name": "Sung Shariari",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 75278.0,
+        "Year_Birth": 1952
+    },
+    {
+        "customer_id": "PB-19105",
+        "customer_name": "Peter B\u00fchler",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 50898.0,
+        "Year_Birth": 1956
+    },
+    {
+        "customer_id": "RF-19735",
+        "customer_name": "Roland Fjeld",
+        "Education": "Graduation",
+        "Marital_Status": "Widow",
+        "Income": 79946.0,
+        "Year_Birth": 1966
+    },
+    {
+        "customer_id": "YC-21895",
+        "customer_name": "Yoseph Carroll",
+        "Education": "Master",
+        "Marital_Status": "Divorced",
+        "Income": 35416.0,
+        "Year_Birth": 1949
+    },
+    {
+        "customer_id": "DC-13285",
+        "customer_name": "Debra Catini",
+        "Education": "2n Cycle",
+        "Marital_Status": "Together",
+        "Income": 32414.0,
+        "Year_Birth": 1984
+    },
+    {
+        "customer_id": "CP-12340",
+        "customer_name": "Christine Phan",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 38361.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "BF-11020",
+        "customer_name": "Barry Franz\u00f6sisch",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 82497.0,
+        "Year_Birth": 1980
+    },
+    {
+        "customer_id": "LH-17020",
+        "customer_name": "Lisa Hazard",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 16626.0,
+        "Year_Birth": 1971
+    },
+    {
+        "customer_id": "CS-12250",
+        "customer_name": "Chris Selesnick",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 29672.0,
+        "Year_Birth": 1965
+    },
+    {
+        "customer_id": "AJ-10795",
+        "customer_name": "Anthony Johnson",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 55951.0,
+        "Year_Birth": 1952
+    },
+    {
+        "customer_id": "BV-11245",
+        "customer_name": "Benjamin Venier",
+        "Education": "2n Cycle",
+        "Marital_Status": "Divorced",
+        "Income": 35388.0,
+        "Year_Birth": 1988
+    },
+    {
+        "customer_id": "DL-12865",
+        "customer_name": "Dan Lawera",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 42386.0,
+        "Year_Birth": 1986
+    },
+    {
+        "customer_id": "BM-11785",
+        "customer_name": "Bryan Mills",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 68627.0,
+        "Year_Birth": 1982
+    },
+    {
+        "customer_id": "LT-17110",
+        "customer_name": "Liz Thompson",
+        "Education": "PhD",
+        "Marital_Status": "Divorced",
+        "Income": 57912.0,
+        "Year_Birth": 1965
+    },
+    {
+        "customer_id": "JK-15730",
+        "customer_name": "Joe Kamberova",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 35246.0,
+        "Year_Birth": 1958
+    },
+    {
+        "customer_id": "ES-14020",
+        "customer_name": "Erica Smith",
+        "Education": "2n Cycle",
+        "Marital_Status": "Together",
+        "Income": 58821.0,
+        "Year_Birth": 1956
+    },
+    {
+        "customer_id": "RH-19495",
+        "customer_name": "Rick Hansen",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 46377.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "CD-11920",
+        "customer_name": "Carlos Daly",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 39747.0,
+        "Year_Birth": 1988
+    },
+    {
+        "customer_id": "HW-14935",
+        "customer_name": "Helen Wasserman",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 23976.0,
+        "Year_Birth": 1984
+    },
+    {
+        "customer_id": "MC-18130",
+        "customer_name": "Mike Caudle",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 80950.0,
+        "Year_Birth": 1961
+    },
+    {
+        "customer_id": "GM-14440",
+        "customer_name": "Gary McGarr",
+        "Education": "Graduation",
+        "Marital_Status": "Widow",
+        "Income": 27038.0,
+        "Year_Birth": 1966
+    },
+    {
+        "customer_id": "PJ-19015",
+        "customer_name": "Pauline Johnson",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 77457.0,
+        "Year_Birth": 1947
+    },
+    {
+        "customer_id": "BW-11110",
+        "customer_name": "Bart Watters",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 64100.0,
+        "Year_Birth": 1964
+    },
+    {
+        "customer_id": "TR-21325",
+        "customer_name": "Toby Ritter",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 42670.0,
+        "Year_Birth": 1992
+    },
+    {
+        "customer_id": "PG-18820",
+        "customer_name": "Patrick Gardner",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 12571.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "JL-15175",
+        "customer_name": "James Lanier",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 22574.0,
+        "Year_Birth": 1967
+    },
+    {
+        "customer_id": "BM-11650",
+        "customer_name": "Brian Moss",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": null,
+        "Year_Birth": 1989
+    },
+    {
+        "customer_id": "EM-14095",
+        "customer_name": "Eudokia Martin",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 70893.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "AF-10885",
+        "customer_name": "Art Foster",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 54198.0,
+        "Year_Birth": 1966
+    },
+    {
+        "customer_id": "GA-14725",
+        "customer_name": "Guy Armstrong",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 28839.0,
+        "Year_Birth": 1956
+    },
+    {
+        "customer_id": "CK-12760",
+        "customer_name": "Cyma Kinney",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 40321.0,
+        "Year_Birth": 1972
+    },
+    {
+        "customer_id": "DP-13105",
+        "customer_name": "Dave Poirier",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 66503.0,
+        "Year_Birth": 1985
+    },
+    {
+        "customer_id": "BK-11260",
+        "customer_name": "Berenike Kampe",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 30833.0,
+        "Year_Birth": 1951
+    },
+    {
+        "customer_id": "SJ-20125",
+        "customer_name": "Sanjit Jacobs",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": null,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "CM-12445",
+        "customer_name": "Chuck Magee",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 64795.0,
+        "Year_Birth": 1971
+    },
+    {
+        "customer_id": "AJ-10780",
+        "customer_name": "Anthony Jacobs",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 34421.0,
+        "Year_Birth": 1974
+    },
+    {
+        "customer_id": "LS-16945",
+        "customer_name": "Linda Southworth",
+        "Education": "PhD",
+        "Marital_Status": "Divorced",
+        "Income": 47025.0,
+        "Year_Birth": 1965
+    },
+    {
+        "customer_id": "GP-14740",
+        "customer_name": "Guy Phonely",
+        "Education": "PhD",
+        "Marital_Status": "Divorced",
+        "Income": 64325.0,
+        "Year_Birth": 1961
+    },
+    {
+        "customer_id": "PK-18910",
+        "customer_name": "Paul Knutson",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 40464.0,
+        "Year_Birth": 1953
+    },
+    {
+        "customer_id": "SM-20005",
+        "customer_name": "Sally Matthias",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 62187.0,
+        "Year_Birth": 1957
+    },
+    {
+        "customer_id": "AG-10765",
+        "customer_name": "Anthony Garverick",
+        "Education": "PhD",
+        "Marital_Status": "Divorced",
+        "Income": 14849.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "PM-19135",
+        "customer_name": "Peter McVee",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 27255.0,
+        "Year_Birth": 1984
+    },
+    {
+        "customer_id": "LL-16840",
+        "customer_name": "Lauren Leatherbury",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 54432.0,
+        "Year_Birth": 1950
+    },
+    {
+        "customer_id": "JS-15595",
+        "customer_name": "Jill Stevenson",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 29999.0,
+        "Year_Birth": 1986
+    },
+    {
+        "customer_id": "EL-13735",
+        "customer_name": "Ed Ludwig",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 24072.0,
+        "Year_Birth": 1983
+    },
+    {
+        "customer_id": "PC-18745",
+        "customer_name": "Pamela Coakley",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 33996.0,
+        "Year_Birth": 1989
+    },
+    {
+        "customer_id": "HL-15040",
+        "customer_name": "Hunter Lopez",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 66334.0,
+        "Year_Birth": 1956
+    },
+    {
+        "customer_id": "MS-17365",
+        "customer_name": "Maribeth Schnelling",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 35178.0,
+        "Year_Birth": 1971
+    },
+    {
+        "customer_id": "GB-14530",
+        "customer_name": "George Bell",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 22010.0,
+        "Year_Birth": 1983
+    },
+    {
+        "customer_id": "JR-16210",
+        "customer_name": "Justin Ritter",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 62204.0,
+        "Year_Birth": 1960
+    },
+    {
+        "customer_id": "BE-11335",
+        "customer_name": "Bill Eplett",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 75693.0,
+        "Year_Birth": 1968
+    },
+    {
+        "customer_id": "SC-20050",
+        "customer_name": "Sample Company A",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 30675.0,
+        "Year_Birth": 1972
+    },
+    {
+        "customer_id": "RW-19630",
+        "customer_name": "Rob Williams",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 83003.0,
+        "Year_Birth": 1965
+    },
+    {
+        "customer_id": "SE-20110",
+        "customer_name": "Sanjit Engle",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 83532.0,
+        "Year_Birth": 1899
+    },
+    {
+        "customer_id": "AH-10075",
+        "customer_name": "Adam Hart",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 68655.0,
+        "Year_Birth": 1988
+    },
+    {
+        "customer_id": "JM-15535",
+        "customer_name": "Jessica Myrick",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 41411.0,
+        "Year_Birth": 1986
+    },
+    {
+        "customer_id": "JJ-15760",
+        "customer_name": "Joel Jenkins",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 55212.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "RK-19300",
+        "customer_name": "Ralph Kennedy",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 59292.0,
+        "Year_Birth": 1950
+    },
+    {
+        "customer_id": "CG-12040",
+        "customer_name": "Catherine Glotzbach",
+        "Education": "Basic",
+        "Marital_Status": "Together",
+        "Income": 27190.0,
+        "Year_Birth": 1973
+    },
+    {
+        "customer_id": "RP-19270",
+        "customer_name": "Rachel Payne",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 82623.0,
+        "Year_Birth": 1952
+    },
+    {
+        "customer_id": "KC-16255",
+        "customer_name": "Karen Carlisle",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 44300.0,
+        "Year_Birth": 1965
+    },
+    {
+        "customer_id": "KH-16360",
+        "customer_name": "Katherine Hughes",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 84835.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "GH-14665",
+        "customer_name": "Greg Hansen",
+        "Education": "Graduation",
+        "Marital_Status": "Widow",
+        "Income": 30372.0,
+        "Year_Birth": 1971
+    },
+    {
+        "customer_id": "SW-20275",
+        "customer_name": "Scott Williamson",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 33181.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "JA-15970",
+        "customer_name": "Joseph Airdo",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 71113.0,
+        "Year_Birth": 1957
+    },
+    {
+        "customer_id": "DL-12925",
+        "customer_name": "Daniel Lacy",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 71952.0,
+        "Year_Birth": 1986
+    },
+    {
+        "customer_id": "LW-16990",
+        "customer_name": "Lindsay Williams",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 69759.0,
+        "Year_Birth": 1966
+    },
+    {
+        "customer_id": "TB-21190",
+        "customer_name": "Thomas Brumley",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 72099.0,
+        "Year_Birth": 1974
+    },
+    {
+        "customer_id": "BS-11800",
+        "customer_name": "Bryan Spruell",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 60000.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "RW-19690",
+        "customer_name": "Robert Waldorf",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 38643.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "TZ-21580",
+        "customer_name": "Tracy Zic",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 50737.0,
+        "Year_Birth": 1955
+    },
+    {
+        "customer_id": "AS-10630",
+        "customer_name": "Ann Steele",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 68462.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "TS-21340",
+        "customer_name": "Toby Swindell",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 65073.0,
+        "Year_Birth": 1943
+    },
+    {
+        "customer_id": "SL-20155",
+        "customer_name": "Sara Luxemburg",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 46681.0,
+        "Year_Birth": 1948
+    },
+    {
+        "customer_id": "MW-18235",
+        "customer_name": "Mitch Willingham",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 78618.0,
+        "Year_Birth": 1957
+    },
+    {
+        "customer_id": "RD-19585",
+        "customer_name": "Rob Dowd",
+        "Education": "PhD",
+        "Marital_Status": "Widow",
+        "Income": 62187.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "RA-19945",
+        "customer_name": "Ryan Akin",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 28442.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "MT-17815",
+        "customer_name": "Meg Tillman",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 37717.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "VG-21790",
+        "customer_name": "Vivek Gonzalez",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 51479.0,
+        "Year_Birth": 1967
+    },
+    {
+        "customer_id": "JS-15880",
+        "customer_name": "John Stevenson",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 54803.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "KM-16225",
+        "customer_name": "Kalyca Meade",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 79530.0,
+        "Year_Birth": 1960
+    },
+    {
+        "customer_id": "HR-14770",
+        "customer_name": "Hallie Redmond",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 31615.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "DE-13255",
+        "customer_name": "Deanra Eno",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 72025.0,
+        "Year_Birth": 1962
+    },
+    {
+        "customer_id": "AG-10390",
+        "customer_name": "Allen Goldenen",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 52614.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "JJ-15445",
+        "customer_name": "Jennifer Jackson",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": 35684.0,
+        "Year_Birth": 1984
+    },
+    {
+        "customer_id": "JH-15430",
+        "customer_name": "Jennifer Halladay",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 48178.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "RD-19660",
+        "customer_name": "Robert Dilbeck",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 29548.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "MO-17500",
+        "customer_name": "Mary O'Rourke",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 63810.0,
+        "Year_Birth": 1966
+    },
+    {
+        "customer_id": "NS-18640",
+        "customer_name": "Noel Staavos",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 38578.0,
+        "Year_Birth": 1972
+    },
+    {
+        "customer_id": "DG-13300",
+        "customer_name": "Deirdre Greer",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 46098.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "NF-18595",
+        "customer_name": "Nicole Fjeld",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 22585.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "MG-17650",
+        "customer_name": "Matthew Grinstein",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 30279.0,
+        "Year_Birth": 1989
+    },
+    {
+        "customer_id": "TS-21160",
+        "customer_name": "Theresa Swint",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 66426.0,
+        "Year_Birth": 1961
+    },
+    {
+        "customer_id": "BD-11620",
+        "customer_name": "Brian DeCherney",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 30822.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "CM-12160",
+        "customer_name": "Charles McCrossin",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 33581.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "SN-20560",
+        "customer_name": "Skye Norling",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 19986.0,
+        "Year_Birth": 1985
+    },
+    {
+        "customer_id": "EH-14005",
+        "customer_name": "Erica Hernandez",
+        "Education": "Graduation",
+        "Marital_Status": "Widow",
+        "Income": 27421.0,
+        "Year_Birth": 1954
+    },
+    {
+        "customer_id": "FO-14305",
+        "customer_name": "Frank Olsen",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": 35688.0,
+        "Year_Birth": 1973
+    },
+    {
+        "customer_id": "MS-17710",
+        "customer_name": "Maurice Satty",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 36143.0,
+        "Year_Birth": 1981
+    },
+    {
+        "customer_id": "CC-12100",
+        "customer_name": "Chad Cunningham",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 10245.0,
+        "Year_Birth": 1971
+    },
+    {
+        "customer_id": "DW-13540",
+        "customer_name": "Don Weiss",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 43795.0,
+        "Year_Birth": 1968
+    },
+    {
+        "customer_id": "BT-11395",
+        "customer_name": "Bill Tyler",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 63381.0,
+        "Year_Birth": 1960
+    },
+    {
+        "customer_id": "CY-12745",
+        "customer_name": "Craig Yedwab",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 38823.0,
+        "Year_Birth": 1949
+    },
+    {
+        "customer_id": "BT-11485",
+        "customer_name": "Brad Thomas",
+        "Education": "PhD",
+        "Marital_Status": "Divorced",
+        "Income": 83664.0,
+        "Year_Birth": 1968
+    },
+    {
+        "customer_id": "PS-19045",
+        "customer_name": "Penelope Sewall",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 90300.0,
+        "Year_Birth": 1979
+    },
+    {
+        "customer_id": "PV-18985",
+        "customer_name": "Paul Van Hugh",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 62499.0,
+        "Year_Birth": 1979
+    },
+    {
+        "customer_id": "NM-18520",
+        "customer_name": "Neoma Murray",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 74293.0,
+        "Year_Birth": 1993
+    },
+    {
+        "customer_id": "DL-13495",
+        "customer_name": "Dionis Lloyd",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 51012.0,
+        "Year_Birth": 1946
+    },
+    {
+        "customer_id": "CS-12355",
+        "customer_name": "Christine Sundaresam",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 70777.0,
+        "Year_Birth": 1968
+    },
+    {
+        "customer_id": "FH-14275",
+        "customer_name": "Frank Hawley",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 68682.0,
+        "Year_Birth": 1991
+    },
+    {
+        "customer_id": "NC-18340",
+        "customer_name": "Nat Carroll",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 43824.0,
+        "Year_Birth": 1971
+    },
+    {
+        "customer_id": "AA-10315",
+        "customer_name": "Alex Avila",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 15345.0,
+        "Year_Birth": 1984
+    },
+    {
+        "customer_id": "LT-16765",
+        "customer_name": "Larry Tron",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 23442.0,
+        "Year_Birth": 1987
+    },
+    {
+        "customer_id": "AP-10720",
+        "customer_name": "Anne Pryor",
+        "Education": "2n Cycle",
+        "Marital_Status": "Together",
+        "Income": 14515.0,
+        "Year_Birth": 1980
+    },
+    {
+        "customer_id": "PM-18940",
+        "customer_name": "Paul MacIntyre",
+        "Education": "2n Cycle",
+        "Marital_Status": "Divorced",
+        "Income": 31395.0,
+        "Year_Birth": 1956
+    },
+    {
+        "customer_id": "AT-10435",
+        "customer_name": "Alyssa Tate",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 75276.0,
+        "Year_Birth": 1965
+    },
+    {
+        "customer_id": "CA-12055",
+        "customer_name": "Cathy Armstrong",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 42373.0,
+        "Year_Birth": 1974
+    },
+    {
+        "customer_id": "HR-14830",
+        "customer_name": "Harold Ryan",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 30507.0,
+        "Year_Birth": 1960
+    },
+    {
+        "customer_id": "BT-11530",
+        "customer_name": "Bradley Talbott",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 55521.0,
+        "Year_Birth": 1955
+    },
+    {
+        "customer_id": "LH-16750",
+        "customer_name": "Larry Hughes",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 48006.0,
+        "Year_Birth": 1965
+    },
+    {
+        "customer_id": "SW-20755",
+        "customer_name": "Steven Ward",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 27213.0,
+        "Year_Birth": 1972
+    },
+    {
+        "customer_id": "SP-20620",
+        "customer_name": "Stefania Perrino",
+        "Education": "PhD",
+        "Marital_Status": "Divorced",
+        "Income": 65808.0,
+        "Year_Birth": 1971
+    },
+    {
+        "customer_id": "BF-11170",
+        "customer_name": "Ben Ferrer",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 30351.0,
+        "Year_Birth": 1974
+    },
+    {
+        "customer_id": "KT-16480",
+        "customer_name": "Kean Thornton",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 50437.0,
+        "Year_Birth": 1963
+    },
+    {
+        "customer_id": "BG-11695",
+        "customer_name": "Brooke Gillingham",
+        "Education": "2n Cycle",
+        "Marital_Status": "Single",
+        "Income": 23616.0,
+        "Year_Birth": 1982
+    },
+    {
+        "customer_id": "GM-14680",
+        "customer_name": "Greg Matthias",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 53858.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "EJ-14155",
+        "customer_name": "Eva Jacobs",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 66465.0,
+        "Year_Birth": 1955
+    },
+    {
+        "customer_id": "NP-18700",
+        "customer_name": "Nora Preis",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 46923.0,
+        "Year_Birth": 1987
+    },
+    {
+        "customer_id": "MH-18115",
+        "customer_name": "Mick Hernandez",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 75072.0,
+        "Year_Birth": 1962
+    },
+    {
+        "customer_id": "JR-15700",
+        "customer_name": "Jocasta Rupert",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 75865.0,
+        "Year_Birth": 1943
+    },
+    {
+        "customer_id": "SM-20950",
+        "customer_name": "Suzanne McNair",
+        "Education": "2n Cycle",
+        "Marital_Status": "Together",
+        "Income": 19789.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "CC-12220",
+        "customer_name": "Chris Cortes",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 80134.0,
+        "Year_Birth": 1994
+    },
+    {
+        "customer_id": "PF-19225",
+        "customer_name": "Phillip Flathmann",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 91065.0,
+        "Year_Birth": 1981
+    },
+    {
+        "customer_id": "DC-12850",
+        "customer_name": "Dan Campbell",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 49505.0,
+        "Year_Birth": 1971
+    },
+    {
+        "customer_id": "BD-11770",
+        "customer_name": "Bryan Davis",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 37401.0,
+        "Year_Birth": 1973
+    },
+    {
+        "customer_id": "GM-14500",
+        "customer_name": "Gene McClure",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 30096.0,
+        "Year_Birth": 1983
+    },
+    {
+        "customer_id": "TB-21355",
+        "customer_name": "Todd Boyes",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 18492.0,
+        "Year_Birth": 1982
+    },
+    {
+        "customer_id": "JH-16180",
+        "customer_name": "Justin Hirsh",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 82584.0,
+        "Year_Birth": 1974
+    },
+    {
+        "customer_id": "EB-13975",
+        "customer_name": "Erica Bern",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 93027.0,
+        "Year_Birth": 1941
+    },
+    {
+        "customer_id": "QJ-19255",
+        "customer_name": "Quincy Jones",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 48686.0,
+        "Year_Birth": 1953
+    },
+    {
+        "customer_id": "TC-21535",
+        "customer_name": "Tracy Collins",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 92910.0,
+        "Year_Birth": 1986
+    },
+    {
+        "customer_id": "CS-12460",
+        "customer_name": "Chuck Sachs",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 75433.0,
+        "Year_Birth": 1989
+    },
+    {
+        "customer_id": "HG-14965",
+        "customer_name": "Henry Goldwyn",
+        "Education": "2n Cycle",
+        "Marital_Status": "Together",
+        "Income": 10404.0,
+        "Year_Birth": 1989
+    },
+    {
+        "customer_id": "LW-16825",
+        "customer_name": "Laurel Workman",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 61314.0,
+        "Year_Birth": 1968
+    },
+    {
+        "customer_id": "MC-17575",
+        "customer_name": "Matt Collins",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 84865.0,
+        "Year_Birth": 1961
+    },
+    {
+        "customer_id": "LP-17095",
+        "customer_name": "Liz Preis",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 42387.0,
+        "Year_Birth": 1989
+    },
+    {
+        "customer_id": "EB-14170",
+        "customer_name": "Evan Bailliet",
+        "Education": "2n Cycle",
+        "Marital_Status": "Together",
+        "Income": 67309.0,
+        "Year_Birth": 1967
+    },
+    {
+        "customer_id": "GZ-14545",
+        "customer_name": "George Zrebassa",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 75236.0,
+        "Year_Birth": 1964
+    },
+    {
+        "customer_id": "CP-12085",
+        "customer_name": "Cathy Prescott",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 30015.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "FG-14260",
+        "customer_name": "Frank Gastineau",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 50943.0,
+        "Year_Birth": 1956
+    },
+    {
+        "customer_id": "LD-17005",
+        "customer_name": "Lisa DeCherney",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 67272.0,
+        "Year_Birth": 1966
+    },
+    {
+        "customer_id": "AB-10255",
+        "customer_name": "Alejandro Ballentine",
+        "Education": "Master",
+        "Marital_Status": "Widow",
+        "Income": 51529.0,
+        "Year_Birth": 1949
+    },
+    {
+        "customer_id": "MN-17935",
+        "customer_name": "Michael Nguyen",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 32011.0,
+        "Year_Birth": 1971
+    },
+    {
+        "customer_id": "JR-15670",
+        "customer_name": "Jim Radford",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": 7500.0,
+        "Year_Birth": 1986
+    },
+    {
+        "customer_id": "JF-15190",
+        "customer_name": "Jamie Frazer",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 28691.0,
+        "Year_Birth": 1989
+    },
+    {
+        "customer_id": "CM-12115",
+        "customer_name": "Chad McGuire",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 56223.0,
+        "Year_Birth": 1948
+    },
+    {
+        "customer_id": "AS-10045",
+        "customer_name": "Aaron Smayling",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 18100.0,
+        "Year_Birth": 1946
+    },
+    {
+        "customer_id": "BP-11290",
+        "customer_name": "Beth Paige",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 30279.0,
+        "Year_Birth": 1989
+    },
+    {
+        "customer_id": "ND-18370",
+        "customer_name": "Natalie DeCherney",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": 20130.0,
+        "Year_Birth": 1974
+    },
+    {
+        "customer_id": "LB-16735",
+        "customer_name": "Larry Blacks",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 23295.0,
+        "Year_Birth": 1959
+    },
+    {
+        "customer_id": "KT-16465",
+        "customer_name": "Kean Takahito",
+        "Education": "Master",
+        "Marital_Status": "Divorced",
+        "Income": 42618.0,
+        "Year_Birth": 1972
+    },
+    {
+        "customer_id": "HM-14860",
+        "customer_name": "Harry Marie",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 81246.0,
+        "Year_Birth": 1964
+    },
+    {
+        "customer_id": "AB-10600",
+        "customer_name": "Ann Blume",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 24027.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "SZ-20035",
+        "customer_name": "Sam Zeldin",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 55707.0,
+        "Year_Birth": 1953
+    },
+    {
+        "customer_id": "MG-17890",
+        "customer_name": "Michael Granlund",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 57959.0,
+        "Year_Birth": 1955
+    },
+    {
+        "customer_id": "JK-16120",
+        "customer_name": "Julie Kriz",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 56796.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "PP-18955",
+        "customer_name": "Paul Prost",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 36230.0,
+        "Year_Birth": 1971
+    },
+    {
+        "customer_id": "YS-21880",
+        "customer_name": "Yana Sorensen",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": 70829.0,
+        "Year_Birth": 1980
+    },
+    {
+        "customer_id": "KM-16375",
+        "customer_name": "Katherine Murray",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 65991.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "AB-10105",
+        "customer_name": "Adrian Barton",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 38988.0,
+        "Year_Birth": 1972
+    },
+    {
+        "customer_id": "HA-14905",
+        "customer_name": "Helen Abelman",
+        "Education": "2n Cycle",
+        "Marital_Status": "Single",
+        "Income": 89572.0,
+        "Year_Birth": 1966
+    },
+    {
+        "customer_id": "BT-11305",
+        "customer_name": "Beth Thompson",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 42207.0,
+        "Year_Birth": 1984
+    },
+    {
+        "customer_id": "SV-20815",
+        "customer_name": "Stuart Van",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 50300.0,
+        "Year_Birth": 1952
+    },
+    {
+        "customer_id": "RW-19540",
+        "customer_name": "Rick Wilson",
+        "Education": "2n Cycle",
+        "Marital_Status": "Together",
+        "Income": 66664.0,
+        "Year_Birth": 1982
+    },
+    {
+        "customer_id": "DK-12835",
+        "customer_name": "Damala Kotsonis",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 60597.0,
+        "Year_Birth": 1964
+    },
+    {
+        "customer_id": "ST-20530",
+        "customer_name": "Shui Tom",
+        "Education": "Graduation",
+        "Marital_Status": "Widow",
+        "Income": 70165.0,
+        "Year_Birth": 1949
+    },
+    {
+        "customer_id": "MM-17920",
+        "customer_name": "Michael Moore",
+        "Education": "PhD",
+        "Marital_Status": "Widow",
+        "Income": 50520.0,
+        "Year_Birth": 1958
+    },
+    {
+        "customer_id": "PW-19030",
+        "customer_name": "Pauline Webber",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 80124.0,
+        "Year_Birth": 1963
+    },
+    {
+        "customer_id": "SC-20440",
+        "customer_name": "Shaun Chance",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 33183.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "TS-21085",
+        "customer_name": "Thais Sissman",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 66582.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "MC-17425",
+        "customer_name": "Mark Cousins",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 75261.0,
+        "Year_Birth": 1955
+    },
+    {
+        "customer_id": "ME-17320",
+        "customer_name": "Maria Etezadi",
+        "Education": "Graduation",
+        "Marital_Status": "Widow",
+        "Income": 31880.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "NH-18610",
+        "customer_name": "Nicole Hansen",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 53790.0,
+        "Year_Birth": 1951
+    },
+    {
+        "customer_id": "MB-18085",
+        "customer_name": "Mick Brown",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 49269.0,
+        "Year_Birth": 1971
+    },
+    {
+        "customer_id": "KD-16495",
+        "customer_name": "Keith Dawkins",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 61456.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "KN-16390",
+        "customer_name": "Katherine Nockton",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 37406.0,
+        "Year_Birth": 1980
+    },
+    {
+        "customer_id": "NP-18685",
+        "customer_name": "Nora Pelletier",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 56937.0,
+        "Year_Birth": 1981
+    },
+    {
+        "customer_id": "CS-12505",
+        "customer_name": "Cindy Stewart",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 38415.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "MS-17770",
+        "customer_name": "Maxwell Schwartz",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 20518.0,
+        "Year_Birth": 1988
+    },
+    {
+        "customer_id": "CM-12655",
+        "customer_name": "Corinna Mitchell",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 62503.0,
+        "Year_Birth": 1956
+    },
+    {
+        "customer_id": "Co-12640",
+        "customer_name": "Corey-Lock",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 41644.0,
+        "Year_Birth": 1972
+    },
+    {
+        "customer_id": "TS-21370",
+        "customer_name": "Todd Sumrall",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 55842.0,
+        "Year_Birth": 1977
+    },
+    {
+        "customer_id": "JW-15220",
+        "customer_name": "Jane Waco",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 62010.0,
+        "Year_Birth": 1972
+    },
+    {
+        "customer_id": "JD-15790",
+        "customer_name": "John Dryer",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 41124.0,
+        "Year_Birth": 1977
+    },
+    {
+        "customer_id": "PC-19000",
+        "customer_name": "Pauline Chand",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 38961.0,
+        "Year_Birth": 1973
+    },
+    {
+        "customer_id": "AR-10540",
+        "customer_name": "Andy Reiter",
+        "Education": "Master",
+        "Marital_Status": "Divorced",
+        "Income": 37760.0,
+        "Year_Birth": 1972
+    },
+    {
+        "customer_id": "AI-10855",
+        "customer_name": "Arianne Irving",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 32233.0,
+        "Year_Birth": 1974
+    },
+    {
+        "customer_id": "TB-21400",
+        "customer_name": "Tom Boeckenhauer",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 43057.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "PL-18925",
+        "customer_name": "Paul Lucas",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 83151.0,
+        "Year_Birth": 1960
+    },
+    {
+        "customer_id": "GH-14425",
+        "customer_name": "Gary Hwang",
+        "Education": "PhD",
+        "Marital_Status": "Divorced",
+        "Income": 78825.0,
+        "Year_Birth": 1964
+    },
+    {
+        "customer_id": "MP-18175",
+        "customer_name": "Mike Pelletier",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 65104.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "JM-15655",
+        "customer_name": "Jim Mitchum",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 60093.0,
+        "Year_Birth": 1974
+    },
+    {
+        "customer_id": "CL-11890",
+        "customer_name": "Carl Ludwig",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 14045.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "DB-13270",
+        "customer_name": "Deborah Brumfield",
+        "Education": "2n Cycle",
+        "Marital_Status": "Widow",
+        "Income": 28457.0,
+        "Year_Birth": 1952
+    },
+    {
+        "customer_id": "IG-15085",
+        "customer_name": "Ivan Gibson",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 78952.0,
+        "Year_Birth": 1958
+    },
+    {
+        "customer_id": "BO-11425",
+        "customer_name": "Bobby Odegard",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 46310.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "AB-10150",
+        "customer_name": "Aimee Bixby",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 76005.0,
+        "Year_Birth": 1955
+    },
+    {
+        "customer_id": "JW-16075",
+        "customer_name": "Julia West",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 58308.0,
+        "Year_Birth": 1964
+    },
+    {
+        "customer_id": "EB-13750",
+        "customer_name": "Edward Becker",
+        "Education": "PhD",
+        "Marital_Status": "Divorced",
+        "Income": 55614.0,
+        "Year_Birth": 1944
+    },
+    {
+        "customer_id": "SG-20470",
+        "customer_name": "Sheri Gordon",
+        "Education": "Master",
+        "Marital_Status": "Divorced",
+        "Income": 59432.0,
+        "Year_Birth": 1962
+    },
+    {
+        "customer_id": "CM-12190",
+        "customer_name": "Charlotte Melton",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 55563.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "AW-10840",
+        "customer_name": "Anthony Witt",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 78642.0,
+        "Year_Birth": 1971
+    },
+    {
+        "customer_id": "MC-18100",
+        "customer_name": "Mick Crebagga",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 67911.0,
+        "Year_Birth": 1949
+    },
+    {
+        "customer_id": "TT-21460",
+        "customer_name": "Tonja Turnell",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 65275.0,
+        "Year_Birth": 1944
+    },
+    {
+        "customer_id": "VG-21805",
+        "customer_name": "Vivek Grady",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 27203.0,
+        "Year_Birth": 1950
+    },
+    {
+        "customer_id": "MY-18295",
+        "customer_name": "Muhammed Yedwab",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 48330.0,
+        "Year_Birth": 1961
+    },
+    {
+        "customer_id": "RD-19480",
+        "customer_name": "Rick Duston",
+        "Education": "Basic",
+        "Marital_Status": "Married",
+        "Income": 24279.0,
+        "Year_Birth": 1990
+    },
+    {
+        "customer_id": "DP-13390",
+        "customer_name": "Dennis Pardue",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 64355.0,
+        "Year_Birth": 1985
+    },
+    {
+        "customer_id": "ML-17395",
+        "customer_name": "Marina Lichtenstein",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 50943.0,
+        "Year_Birth": 1956
+    },
+    {
+        "customer_id": "JC-15385",
+        "customer_name": "Jenna Caffey",
+        "Education": "Graduation",
+        "Marital_Status": "Widow",
+        "Income": 53653.0,
+        "Year_Birth": 1953
+    },
+    {
+        "customer_id": "JG-15160",
+        "customer_name": "James Galang",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 65665.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "MC-17275",
+        "customer_name": "Marc Crier",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 81217.0,
+        "Year_Birth": 1989
+    },
+    {
+        "customer_id": "NW-18400",
+        "customer_name": "Natalie Webber",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 34935.0,
+        "Year_Birth": 1992
+    },
+    {
+        "customer_id": "TB-21280",
+        "customer_name": "Toby Braunhardt",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 61250.0,
+        "Year_Birth": 1959
+    },
+    {
+        "customer_id": "BS-11380",
+        "customer_name": "Bill Stewart",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 39665.0,
+        "Year_Birth": 1981
+    },
+    {
+        "customer_id": "HH-15010",
+        "customer_name": "Hilary Holden",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 60152.0,
+        "Year_Birth": 1979
+    },
+    {
+        "customer_id": "CD-12280",
+        "customer_name": "Christina DeMoss",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 48920.0,
+        "Year_Birth": 1964
+    },
+    {
+        "customer_id": "TH-21100",
+        "customer_name": "Thea Hendricks",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 89120.0,
+        "Year_Birth": 1959
+    },
+    {
+        "customer_id": "MM-18055",
+        "customer_name": "Michelle Moray",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 44124.0,
+        "Year_Birth": 1946
+    },
+    {
+        "customer_id": "NS-18505",
+        "customer_name": "Neola Schneider",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 81169.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "RB-19645",
+        "customer_name": "Robert Barroso",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 36443.0,
+        "Year_Birth": 1961
+    },
+    {
+        "customer_id": "SW-20455",
+        "customer_name": "Shaun Weien",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 26095.0,
+        "Year_Birth": 1990
+    },
+    {
+        "customer_id": "EB-13930",
+        "customer_name": "Eric Barreto",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 71367.0,
+        "Year_Birth": 1959
+    },
+    {
+        "customer_id": "PS-18760",
+        "customer_name": "Pamela Stobb",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 80184.0,
+        "Year_Birth": 1944
+    },
+    {
+        "customer_id": "HF-14995",
+        "customer_name": "Herbert Flentye",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 30630.0,
+        "Year_Birth": 1965
+    },
+    {
+        "customer_id": "HZ-14950",
+        "customer_name": "Henia Zydlo",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 73454.0,
+        "Year_Birth": 1987
+    },
+    {
+        "customer_id": "CD-12790",
+        "customer_name": "Cynthia Delaney",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 42691.0,
+        "Year_Birth": 1991
+    },
+    {
+        "customer_id": "JK-15205",
+        "customer_name": "Jamie Kunitz",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 70503.0,
+        "Year_Birth": 1953
+    },
+    {
+        "customer_id": "FM-14215",
+        "customer_name": "Filia McAdams",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 25545.0,
+        "Year_Birth": 1987
+    },
+    {
+        "customer_id": "ED-13885",
+        "customer_name": "Emily Ducich",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 32880.0,
+        "Year_Birth": 1986
+    },
+    {
+        "customer_id": "DA-13450",
+        "customer_name": "Dianna Arnett",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 77863.0,
+        "Year_Birth": 1958
+    },
+    {
+        "customer_id": "JW-15955",
+        "customer_name": "Joni Wasserman",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 50353.0,
+        "Year_Birth": 1977
+    },
+    {
+        "customer_id": "RM-19375",
+        "customer_name": "Raymond Messe",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 61839.0,
+        "Year_Birth": 1964
+    },
+    {
+        "customer_id": "ML-17755",
+        "customer_name": "Max Ludwig",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 49154.0,
+        "Year_Birth": 1960
+    },
+    {
+        "customer_id": "CC-12685",
+        "customer_name": "Craig Carroll",
+        "Education": "2n Cycle",
+        "Marital_Status": "Widow",
+        "Income": 47682.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "JE-15610",
+        "customer_name": "Jim Epp",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 72679.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "RP-19855",
+        "customer_name": "Roy Phan",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 57954.0,
+        "Year_Birth": 1977
+    },
+    {
+        "customer_id": "TB-21175",
+        "customer_name": "Thomas Boland",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 65316.0,
+        "Year_Birth": 1962
+    },
+    {
+        "customer_id": "BE-11455",
+        "customer_name": "Brad Eason",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 28567.0,
+        "Year_Birth": 1982
+    },
+    {
+        "customer_id": "JF-15565",
+        "customer_name": "Jill Fjeld",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 47352.0,
+        "Year_Birth": 1951
+    },
+    {
+        "customer_id": "PB-19210",
+        "customer_name": "Phillip Breyer",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 44931.0,
+        "Year_Birth": 1967
+    },
+    {
+        "customer_id": "BT-11680",
+        "customer_name": "Brian Thompson",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 76982.0,
+        "Year_Birth": 1967
+    },
+    {
+        "customer_id": "JL-15235",
+        "customer_name": "Janet Lee",
+        "Education": "2n Cycle",
+        "Marital_Status": "Together",
+        "Income": 57247.0,
+        "Year_Birth": 1952
+    },
+    {
+        "customer_id": "CH-12070",
+        "customer_name": "Cathy Hwang",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 22944.0,
+        "Year_Birth": 1981
+    },
+    {
+        "customer_id": "ND-18460",
+        "customer_name": "Neil Ducich",
+        "Education": "2n Cycle",
+        "Marital_Status": "Together",
+        "Income": 25315.0,
+        "Year_Birth": 1977
+    },
+    {
+        "customer_id": "BF-10975",
+        "customer_name": "Barbara Fisher",
+        "Education": "Graduation",
+        "Marital_Status": "Widow",
+        "Income": 43638.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "KH-16330",
+        "customer_name": "Katharine Harms",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 42710.0,
+        "Year_Birth": 1984
+    },
+    {
+        "customer_id": "GW-14605",
+        "customer_name": "Giulietta Weimer",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 84169.0,
+        "Year_Birth": 1982
+    },
+    {
+        "customer_id": "NC-18625",
+        "customer_name": "Noah Childs",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 54058.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "ME-18010",
+        "customer_name": "Michelle Ellison",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": 24683.0,
+        "Year_Birth": 1990
+    },
+    {
+        "customer_id": "BP-11230",
+        "customer_name": "Benjamin Patterson",
+        "Education": "Graduation",
+        "Marital_Status": "Widow",
+        "Income": 85620.0,
+        "Year_Birth": 1964
+    },
+    {
+        "customer_id": "JC-15775",
+        "customer_name": "John Castell",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 47850.0,
+        "Year_Birth": 1980
+    },
+    {
+        "customer_id": "AS-10090",
+        "customer_name": "Adam Shillingsburg",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 19514.0,
+        "Year_Birth": 1968
+    },
+    {
+        "customer_id": "AC-10450",
+        "customer_name": "Amy Cox",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 27159.0,
+        "Year_Birth": 1973
+    },
+    {
+        "customer_id": "MD-17860",
+        "customer_name": "Michael Dominguez",
+        "Education": "2n Cycle",
+        "Marital_Status": "Single",
+        "Income": 39548.0,
+        "Year_Birth": 1963
+    },
+    {
+        "customer_id": "DB-13660",
+        "customer_name": "Duane Benoit",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 21474.0,
+        "Year_Birth": 1989
+    },
+    {
+        "customer_id": "EH-13990",
+        "customer_name": "Erica Hackney",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 60504.0,
+        "Year_Birth": 1971
+    },
+    {
+        "customer_id": "EH-13765",
+        "customer_name": "Edward Hooks",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 22419.0,
+        "Year_Birth": 1963
+    },
+    {
+        "customer_id": "SC-20230",
+        "customer_name": "Scot Coram",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 81698.0,
+        "Year_Birth": 1949
+    },
+    {
+        "customer_id": "JE-15715",
+        "customer_name": "Joe Elijah",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 43462.0,
+        "Year_Birth": 1952
+    },
+    {
+        "customer_id": "AC-10615",
+        "customer_name": "Ann Chong",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 54880.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "JD-16015",
+        "customer_name": "Joy Daniels",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 79908.0,
+        "Year_Birth": 1982
+    },
+    {
+        "customer_id": "CB-12415",
+        "customer_name": "Christy Brittain",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": 15315.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "JS-16030",
+        "customer_name": "Joy Smith",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 87771.0,
+        "Year_Birth": 1959
+    },
+    {
+        "customer_id": "LW-17215",
+        "customer_name": "Luke Weiss",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 33039.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "SC-20800",
+        "customer_name": "Stuart Calhoun",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 81741.0,
+        "Year_Birth": 1980
+    },
+    {
+        "customer_id": "AM-10705",
+        "customer_name": "Anne McFarland",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 71499.0,
+        "Year_Birth": 1971
+    },
+    {
+        "customer_id": "RH-19510",
+        "customer_name": "Rick Huthwaite",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": 62466.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "CT-11995",
+        "customer_name": "Carol Triggs",
+        "Education": "PhD",
+        "Marital_Status": "Divorced",
+        "Income": 48799.0,
+        "Year_Birth": 1963
+    },
+    {
+        "customer_id": "MC-17590",
+        "customer_name": "Matt Collister",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 52157.0,
+        "Year_Birth": 1950
+    },
+    {
+        "customer_id": "CC-12610",
+        "customer_name": "Corey Catlett",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 66565.0,
+        "Year_Birth": 1962
+    },
+    {
+        "customer_id": "KA-16525",
+        "customer_name": "Kelly Andreada",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 29298.0,
+        "Year_Birth": 1951
+    },
+    {
+        "customer_id": "TC-20980",
+        "customer_name": "Tamara Chand",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 47691.0,
+        "Year_Birth": 1979
+    },
+    {
+        "customer_id": "BF-11080",
+        "customer_name": "Bart Folk",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 38200.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "MM-17260",
+        "customer_name": "Magdelene Morse",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 44989.0,
+        "Year_Birth": 1974
+    },
+    {
+        "customer_id": "AH-10120",
+        "customer_name": "Adrian Hane",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 38443.0,
+        "Year_Birth": 1968
+    },
+    {
+        "customer_id": "BW-11200",
+        "customer_name": "Ben Wallace",
+        "Education": "2n Cycle",
+        "Marital_Status": "Single",
+        "Income": 38593.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "SW-20245",
+        "customer_name": "Scot Wooten",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 64413.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "BS-11665",
+        "customer_name": "Brian Stugart",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 36959.0,
+        "Year_Birth": 1981
+    },
+    {
+        "customer_id": "RF-19345",
+        "customer_name": "Randy Ferguson",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 61996.0,
+        "Year_Birth": 1977
+    },
+    {
+        "customer_id": "WB-21850",
+        "customer_name": "William Brown",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 51287.0,
+        "Year_Birth": 1968
+    },
+    {
+        "customer_id": "TB-21625",
+        "customer_name": "Trudy Brown",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 13260.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "AF-10870",
+        "customer_name": "Art Ferguson",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 47472.0,
+        "Year_Birth": 1966
+    },
+    {
+        "customer_id": "RB-19435",
+        "customer_name": "Richard Bierner",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 54603.0,
+        "Year_Birth": 1956
+    },
+    {
+        "customer_id": "KF-16285",
+        "customer_name": "Karen Ferguson",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 45207.0,
+        "Year_Birth": 1974
+    },
+    {
+        "customer_id": "JH-15820",
+        "customer_name": "John Huston",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 40689.0,
+        "Year_Birth": 1951
+    },
+    {
+        "customer_id": "IL-15100",
+        "customer_name": "Ivan Liston",
+        "Education": "2n Cycle",
+        "Marital_Status": "Together",
+        "Income": 47821.0,
+        "Year_Birth": 1967
+    },
+    {
+        "customer_id": "PB-18805",
+        "customer_name": "Patrick Bzostek",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 27450.0,
+        "Year_Birth": 1951
+    },
+    {
+        "customer_id": "RH-19600",
+        "customer_name": "Rob Haberlin",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 39453.0,
+        "Year_Birth": 1983
+    },
+    {
+        "customer_id": "AW-10930",
+        "customer_name": "Arthur Wiediger",
+        "Education": "2n Cycle",
+        "Marital_Status": "Together",
+        "Income": 26850.0,
+        "Year_Birth": 1971
+    },
+    {
+        "customer_id": "ML-17410",
+        "customer_name": "Maris LaWare",
+        "Education": "Graduation",
+        "Marital_Status": "Widow",
+        "Income": 79800.0,
+        "Year_Birth": 1955
+    },
+    {
+        "customer_id": "DB-13555",
+        "customer_name": "Dorothy Badders",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 61794.0,
+        "Year_Birth": 1961
+    },
+    {
+        "customer_id": "MH-17620",
+        "customer_name": "Matt Hagelstein",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 53863.0,
+        "Year_Birth": 1955
+    },
+    {
+        "customer_id": "DK-13375",
+        "customer_name": "Dennis Kane",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 24221.0,
+        "Year_Birth": 1959
+    },
+    {
+        "customer_id": "BT-11440",
+        "customer_name": "Bobby Trafton",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 39684.0,
+        "Year_Birth": 1984
+    },
+    {
+        "customer_id": "DB-13405",
+        "customer_name": "Denny Blanton",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 92163.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "TG-21310",
+        "customer_name": "Toby Gnade",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 69882.0,
+        "Year_Birth": 1965
+    },
+    {
+        "customer_id": "BF-11005",
+        "customer_name": "Barry Franz",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 33178.0,
+        "Year_Birth": 1977
+    },
+    {
+        "customer_id": "JM-16195",
+        "customer_name": "Justin MacKendrick",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 59973.0,
+        "Year_Birth": 1972
+    },
+    {
+        "customer_id": "MZ-17335",
+        "customer_name": "Maria Zettner",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 17459.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "MW-18220",
+        "customer_name": "Mitch Webber",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 23910.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "MV-17485",
+        "customer_name": "Mark Van Huff",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 42169.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "SM-20320",
+        "customer_name": "Sean Miller",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": 26224.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "TP-21415",
+        "customer_name": "Tom Prescott",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 31089.0,
+        "Year_Birth": 1981
+    },
+    {
+        "customer_id": "JK-15625",
+        "customer_name": "Jim Karlsson",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 30081.0,
+        "Year_Birth": 1961
+    },
+    {
+        "customer_id": "PJ-18835",
+        "customer_name": "Patrick Jones",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 62807.0,
+        "Year_Birth": 1960
+    },
+    {
+        "customer_id": "RS-19420",
+        "customer_name": "Ricardo Sperren",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 72906.0,
+        "Year_Birth": 1955
+    },
+    {
+        "customer_id": "SV-20935",
+        "customer_name": "Susan Vittorini",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 61467.0,
+        "Year_Birth": 1948
+    },
+    {
+        "customer_id": "BC-11125",
+        "customer_name": "Becky Castell",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 49618.0,
+        "Year_Birth": 1966
+    },
+    {
+        "customer_id": "EM-13825",
+        "customer_name": "Elizabeth Moffitt",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 21888.0,
+        "Year_Birth": 1986
+    },
+    {
+        "customer_id": "BM-11575",
+        "customer_name": "Brendan Murry",
+        "Education": "Graduation",
+        "Marital_Status": "Widow",
+        "Income": 42429.0,
+        "Year_Birth": 1973
+    },
+    {
+        "customer_id": "KN-16705",
+        "customer_name": "Kristina Nunn",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 26150.0,
+        "Year_Birth": 1956
+    },
+    {
+        "customer_id": "KW-16570",
+        "customer_name": "Kelly Williams",
+        "Education": "Basic",
+        "Marital_Status": "Married",
+        "Income": 30801.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "SC-20260",
+        "customer_name": "Scott Cohen",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 81168.0,
+        "Year_Birth": 1965
+    },
+    {
+        "customer_id": "CV-12295",
+        "customer_name": "Christina VanderZanden",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 26877.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "SG-20605",
+        "customer_name": "Speros Goranitis",
+        "Education": "Master",
+        "Marital_Status": "Widow",
+        "Income": 45006.0,
+        "Year_Birth": 1944
+    },
+    {
+        "customer_id": "TM-21010",
+        "customer_name": "Tamara Manning",
+        "Education": "Basic",
+        "Marital_Status": "Married",
+        "Income": 18978.0,
+        "Year_Birth": 1973
+    },
+    {
+        "customer_id": "EM-13810",
+        "customer_name": "Eleni McCrary",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 22574.0,
+        "Year_Birth": 1967
+    },
+    {
+        "customer_id": "ML-18040",
+        "customer_name": "Michelle Lonsdale",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 48240.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "CR-12580",
+        "customer_name": "Clay Rozendal",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 45837.0,
+        "Year_Birth": 1974
+    },
+    {
+        "customer_id": "AZ-10750",
+        "customer_name": "Annie Zypern",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 35791.0,
+        "Year_Birth": 1965
+    },
+    {
+        "customer_id": "PW-19240",
+        "customer_name": "Pierre Wener",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 162397.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "SC-20380",
+        "customer_name": "Shahid Collister",
+        "Education": "Graduation",
+        "Marital_Status": "Widow",
+        "Income": 54162.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "CM-11935",
+        "customer_name": "Carlos Meador",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 30522.0,
+        "Year_Birth": 1960
+    },
+    {
+        "customer_id": "GM-14695",
+        "customer_name": "Greg Maxwell",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 54456.0,
+        "Year_Birth": 1961
+    },
+    {
+        "customer_id": "TB-21250",
+        "customer_name": "Tim Brockman",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 31632.0,
+        "Year_Birth": 1971
+    },
+    {
+        "customer_id": "JM-15865",
+        "customer_name": "John Murray",
+        "Education": "Graduation",
+        "Marital_Status": "Widow",
+        "Income": 72298.0,
+        "Year_Birth": 1949
+    },
+    {
+        "customer_id": "SC-20575",
+        "customer_name": "Sonia Cooley",
+        "Education": "2n Cycle",
+        "Marital_Status": "Single",
+        "Income": 36975.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "LS-17200",
+        "customer_name": "Luke Schmidt",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": 72635.0,
+        "Year_Birth": 1955
+    },
+    {
+        "customer_id": "RR-19315",
+        "customer_name": "Ralph Ritter",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 13624.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "DB-12910",
+        "customer_name": "Daniel Byrd",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 84196.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "TT-21220",
+        "customer_name": "Thomas Thornton",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 70971.0,
+        "Year_Birth": 1960
+    },
+    {
+        "customer_id": "LO-17170",
+        "customer_name": "Lori Olson",
+        "Education": "PhD",
+        "Marital_Status": "Divorced",
+        "Income": 34487.0,
+        "Year_Birth": 1977
+    },
+    {
+        "customer_id": "KD-16615",
+        "customer_name": "Ken Dana",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 28769.0,
+        "Year_Birth": 1977
+    },
+    {
+        "customer_id": "NB-18580",
+        "customer_name": "Nicole Brennan",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 69084.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "BD-11635",
+        "customer_name": "Brian Derr",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 65488.0,
+        "Year_Birth": 1958
+    },
+    {
+        "customer_id": "CM-12235",
+        "customer_name": "Chris McAfee",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": 62466.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "EN-13780",
+        "customer_name": "Edward Nazzal",
+        "Education": "2n Cycle",
+        "Marital_Status": "Single",
+        "Income": 32218.0,
+        "Year_Birth": 1960
+    },
+    {
+        "customer_id": "KN-16450",
+        "customer_name": "Kean Nguyen",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 83917.0,
+        "Year_Birth": 1973
+    },
+    {
+        "customer_id": "BO-11350",
+        "customer_name": "Bill Overfelt",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 46102.0,
+        "Year_Birth": 1962
+    },
+    {
+        "customer_id": "AG-10300",
+        "customer_name": "Aleksandra Gannaway",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 84574.0,
+        "Year_Birth": 1952
+    },
+    {
+        "customer_id": "MC-17635",
+        "customer_name": "Matthew Clasen",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 56181.0,
+        "Year_Birth": 1962
+    },
+    {
+        "customer_id": "TA-21385",
+        "customer_name": "Tom Ashbrook",
+        "Education": "Master",
+        "Marital_Status": "Divorced",
+        "Income": 63120.0,
+        "Year_Birth": 1950
+    },
+    {
+        "customer_id": "JF-15295",
+        "customer_name": "Jason Fortune-",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 73691.0,
+        "Year_Birth": 1971
+    },
+    {
+        "customer_id": "TT-21265",
+        "customer_name": "Tim Taslimi",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 63381.0,
+        "Year_Birth": 1960
+    },
+    {
+        "customer_id": "SB-20170",
+        "customer_name": "Sarah Bern",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 76140.0,
+        "Year_Birth": 1948
+    },
+    {
+        "customer_id": "CL-12700",
+        "customer_name": "Craig Leslie",
+        "Education": "PhD",
+        "Marital_Status": "Divorced",
+        "Income": 62859.0,
+        "Year_Birth": 1959
+    },
+    {
+        "customer_id": "HG-15025",
+        "customer_name": "Hunter Glantz",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 45906.0,
+        "Year_Birth": 1964
+    },
+    {
+        "customer_id": "NL-18310",
+        "customer_name": "Nancy Lomonaco",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 77632.0,
+        "Year_Birth": 1947
+    },
+    {
+        "customer_id": "RR-19525",
+        "customer_name": "Rick Reed",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 46463.0,
+        "Year_Birth": 1971
+    },
+    {
+        "customer_id": "TC-21295",
+        "customer_name": "Toby Carlisle",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 105471.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "SV-20785",
+        "customer_name": "Stewart Visinsky",
+        "Education": "Master",
+        "Marital_Status": "Divorced",
+        "Income": 55282.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "BE-11410",
+        "customer_name": "Bobby Elias",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 78710.0,
+        "Year_Birth": 1977
+    },
+    {
+        "customer_id": "SC-20680",
+        "customer_name": "Steve Carroll",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 66886.0,
+        "Year_Birth": 1958
+    },
+    {
+        "customer_id": "DF-13135",
+        "customer_name": "David Flashing",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 98777.0,
+        "Year_Birth": 1960
+    },
+    {
+        "customer_id": "FH-14350",
+        "customer_name": "Fred Harton",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 29103.0,
+        "Year_Birth": 1985
+    },
+    {
+        "customer_id": "MS-17530",
+        "customer_name": "MaryBeth Skach",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 67445.0,
+        "Year_Birth": 1974
+    },
+    {
+        "customer_id": "RH-19555",
+        "customer_name": "Ritsa Hightower",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 50616.0,
+        "Year_Birth": 1950
+    },
+    {
+        "customer_id": "GA-14515",
+        "customer_name": "George Ashbrook",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 49431.0,
+        "Year_Birth": 1955
+    },
+    {
+        "customer_id": "JP-16135",
+        "customer_name": "Julie Prescott",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 153924.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "Dp-13240",
+        "customer_name": "Dean percer",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 61278.0,
+        "Year_Birth": 1953
+    },
+    {
+        "customer_id": "MO-17950",
+        "customer_name": "Michael Oakman",
+        "Education": "2n Cycle",
+        "Marital_Status": "Together",
+        "Income": 26490.0,
+        "Year_Birth": 1958
+    },
+    {
+        "customer_id": "DL-13330",
+        "customer_name": "Denise Leinenbach",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 73059.0,
+        "Year_Birth": 1947
+    },
+    {
+        "customer_id": "MH-18025",
+        "customer_name": "Michelle Huthwaite",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 46734.0,
+        "Year_Birth": 1966
+    },
+    {
+        "customer_id": "DR-12940",
+        "customer_name": "Daniel Raglin",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 56253.0,
+        "Year_Birth": 1963
+    },
+    {
+        "customer_id": "DM-13015",
+        "customer_name": "Darrin Martin",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 19986.0,
+        "Year_Birth": 1985
+    },
+    {
+        "customer_id": "CA-11965",
+        "customer_name": "Carol Adams",
+        "Education": "Graduation",
+        "Marital_Status": "Widow",
+        "Income": 58330.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "AC-10660",
+        "customer_name": "Anna Chung",
+        "Education": "Basic",
+        "Marital_Status": "Married",
+        "Income": 25965.0,
+        "Year_Birth": 1980
+    },
+    {
+        "customer_id": "DM-13345",
+        "customer_name": "Denise Monton",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 14661.0,
+        "Year_Birth": 1956
+    },
+    {
+        "customer_id": "VF-21715",
+        "customer_name": "Vicky Freymann",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 18690.0,
+        "Year_Birth": 1959
+    },
+    {
+        "customer_id": "CC-12370",
+        "customer_name": "Christopher Conant",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 45068.0,
+        "Year_Birth": 1974
+    },
+    {
+        "customer_id": "BF-11275",
+        "customer_name": "Beth Fritzler",
+        "Education": "Basic",
+        "Marital_Status": "Single",
+        "Income": 21063.0,
+        "Year_Birth": 1987
+    },
+    {
+        "customer_id": "HG-14845",
+        "customer_name": "Harry Greene",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 29187.0,
+        "Year_Birth": 1968
+    },
+    {
+        "customer_id": "BP-11155",
+        "customer_name": "Becky Pak",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": 54690.0,
+        "Year_Birth": 1971
+    },
+    {
+        "customer_id": "EM-14140",
+        "customer_name": "Eugene Moren",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 59304.0,
+        "Year_Birth": 1964
+    },
+    {
+        "customer_id": "MA-17995",
+        "customer_name": "Michelle Arnett",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 59247.0,
+        "Year_Birth": 1962
+    },
+    {
+        "customer_id": "AY-10555",
+        "customer_name": "Andy Yotov",
+        "Education": "Graduation",
+        "Marital_Status": "Widow",
+        "Income": 66731.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "GB-14575",
+        "customer_name": "Giulietta Baptist",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 77353.0,
+        "Year_Birth": 1980
+    },
+    {
+        "customer_id": "JB-16045",
+        "customer_name": "Julia Barnett",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 52614.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "MG-17875",
+        "customer_name": "Michael Grace",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 26751.0,
+        "Year_Birth": 1974
+    },
+    {
+        "customer_id": "SR-20425",
+        "customer_name": "Sharelle Roach",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 81300.0,
+        "Year_Birth": 1963
+    },
+    {
+        "customer_id": "JB-16000",
+        "customer_name": "Joy Bell-",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 70337.0,
+        "Year_Birth": 1979
+    },
+    {
+        "customer_id": "DM-12955",
+        "customer_name": "Dario Medina",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": 36145.0,
+        "Year_Birth": 1985
+    },
+    {
+        "customer_id": "TC-21475",
+        "customer_name": "Tony Chapman",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 65295.0,
+        "Year_Birth": 1980
+    },
+    {
+        "customer_id": "SW-20350",
+        "customer_name": "Sean Wendt",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 68118.0,
+        "Year_Birth": 1963
+    },
+    {
+        "customer_id": "RE-19450",
+        "customer_name": "Richard Eichhorn",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 68743.0,
+        "Year_Birth": 1967
+    },
+    {
+        "customer_id": "BF-11215",
+        "customer_name": "Benjamin Farhat",
+        "Education": "2n Cycle",
+        "Marital_Status": "Together",
+        "Income": 41039.0,
+        "Year_Birth": 1982
+    },
+    {
+        "customer_id": "KB-16405",
+        "customer_name": "Katrina Bavinger",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 38946.0,
+        "Year_Birth": 1955
+    },
+    {
+        "customer_id": "JG-15310",
+        "customer_name": "Jason Gross",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 65777.0,
+        "Year_Birth": 1967
+    },
+    {
+        "customer_id": "EC-14050",
+        "customer_name": "Erin Creighton",
+        "Education": "PhD",
+        "Marital_Status": "Divorced",
+        "Income": 66476.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "EB-14110",
+        "customer_name": "Eugene Barchas",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 86857.0,
+        "Year_Birth": 1972
+    },
+    {
+        "customer_id": "JP-15460",
+        "customer_name": "Jennifer Patt",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 160803.0,
+        "Year_Birth": 1982
+    },
+    {
+        "customer_id": "CS-11845",
+        "customer_name": "Cari Sayre",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 77845.0,
+        "Year_Birth": 1989
+    },
+    {
+        "customer_id": "GH-14410",
+        "customer_name": "Gary Hansen",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 69476.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "PT-19090",
+        "customer_name": "Pete Takahito",
+        "Education": "PhD",
+        "Marital_Status": "Divorced",
+        "Income": 50611.0,
+        "Year_Birth": 1960
+    },
+    {
+        "customer_id": "JL-15130",
+        "customer_name": "Jack Lebron",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 61209.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "AH-10030",
+        "customer_name": "Aaron Hawkins",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 42315.0,
+        "Year_Birth": 1958
+    },
+    {
+        "customer_id": "CC-12475",
+        "customer_name": "Cindy Chapman",
+        "Education": "Basic",
+        "Marital_Status": "Together",
+        "Income": 13084.0,
+        "Year_Birth": 1952
+    },
+    {
+        "customer_id": "DW-13195",
+        "customer_name": "David Wiener",
+        "Education": "Master",
+        "Marital_Status": "Widow",
+        "Income": 47570.0,
+        "Year_Birth": 1949
+    },
+    {
+        "customer_id": "SJ-20215",
+        "customer_name": "Sarah Jordon",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 61923.0,
+        "Year_Birth": 1961
+    },
+    {
+        "customer_id": "BG-11740",
+        "customer_name": "Bruce Geld",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 34824.0,
+        "Year_Birth": 1995
+    },
+    {
+        "customer_id": "LB-16795",
+        "customer_name": "Laurel Beltran",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 26518.0,
+        "Year_Birth": 1949
+    },
+    {
+        "customer_id": "CM-11815",
+        "customer_name": "Candace McMahon",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 45938.0,
+        "Year_Birth": 1961
+    },
+    {
+        "customer_id": "EH-14185",
+        "customer_name": "Evan Henry",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 78468.0,
+        "Year_Birth": 1960
+    },
+    {
+        "customer_id": "TS-21505",
+        "customer_name": "Tony Sayre",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 78901.0,
+        "Year_Birth": 1973
+    },
+    {
+        "customer_id": "PR-18880",
+        "customer_name": "Patrick Ryan",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 71427.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "LC-17050",
+        "customer_name": "Liz Carlisle",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 71022.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "CS-12490",
+        "customer_name": "Cindy Schnelling",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 90247.0,
+        "Year_Birth": 1988
+    },
+    {
+        "customer_id": "DH-13075",
+        "customer_name": "Dave Hallsten",
+        "Education": "Master",
+        "Marital_Status": "Divorced",
+        "Income": 41335.0,
+        "Year_Birth": 1968
+    },
+    {
+        "customer_id": "JO-15145",
+        "customer_name": "Jack O'Briant",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 71952.0,
+        "Year_Birth": 1986
+    },
+    {
+        "customer_id": "AH-10690",
+        "customer_name": "Anna H\u00e4berlin",
+        "Education": "PhD",
+        "Marital_Status": "Divorced",
+        "Income": 35682.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "HJ-14875",
+        "customer_name": "Heather Jas",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 43185.0,
+        "Year_Birth": 1951
+    },
+    {
+        "customer_id": "MH-17455",
+        "customer_name": "Mark Hamilton",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 66375.0,
+        "Year_Birth": 1948
+    },
+    {
+        "customer_id": "RD-19930",
+        "customer_name": "Russell D'Ascenzo",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 35178.0,
+        "Year_Birth": 1971
+    },
+    {
+        "customer_id": "SC-20020",
+        "customer_name": "Sam Craven",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 25252.0,
+        "Year_Birth": 1986
+    },
+    {
+        "customer_id": "SU-20665",
+        "customer_name": "Stephanie Ulpright",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 55250.0,
+        "Year_Birth": 1965
+    },
+    {
+        "customer_id": "FC-14335",
+        "customer_name": "Fred Chung",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 33249.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "RB-19330",
+        "customer_name": "Randy Bradley",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 58398.0,
+        "Year_Birth": 1953
+    },
+    {
+        "customer_id": "NC-18535",
+        "customer_name": "Nick Crebassa",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 50272.0,
+        "Year_Birth": 1982
+    },
+    {
+        "customer_id": "DB-12970",
+        "customer_name": "Darren Budd",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 76618.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "MF-17665",
+        "customer_name": "Maureen Fritzler",
+        "Education": "2n Cycle",
+        "Marital_Status": "Divorced",
+        "Income": 87305.0,
+        "Year_Birth": 1960
+    },
+    {
+        "customer_id": "RM-19750",
+        "customer_name": "Roland Murray",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 25851.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "VM-21835",
+        "customer_name": "Vivian Mathis",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 58710.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "EJ-13720",
+        "customer_name": "Ed Jacobs",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 45160.0,
+        "Year_Birth": 1958
+    },
+    {
+        "customer_id": "NC-18415",
+        "customer_name": "Nathan Cano",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 74806.0,
+        "Year_Birth": 1965
+    },
+    {
+        "customer_id": "LS-17230",
+        "customer_name": "Lycoris Saunders",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 59111.0,
+        "Year_Birth": 1954
+    },
+    {
+        "customer_id": "KE-16420",
+        "customer_name": "Katrina Edelman",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 18988.0,
+        "Year_Birth": 1984
+    },
+    {
+        "customer_id": "DH-13675",
+        "customer_name": "Duane Huffman",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 72190.0,
+        "Year_Birth": 1965
+    },
+    {
+        "customer_id": "PF-19120",
+        "customer_name": "Peter Fuller",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 7500.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "VT-21700",
+        "customer_name": "Valerie Takahito",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 44794.0,
+        "Year_Birth": 1966
+    },
+    {
+        "customer_id": "MG-17695",
+        "customer_name": "Maureen Gnade",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 80395.0,
+        "Year_Birth": 1955
+    },
+    {
+        "customer_id": "SP-20920",
+        "customer_name": "Susan Pistek",
+        "Education": "Master",
+        "Marital_Status": "Divorced",
+        "Income": 75012.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "CS-12175",
+        "customer_name": "Charles Sheldon",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 56962.0,
+        "Year_Birth": 1965
+    },
+    {
+        "customer_id": "DK-12895",
+        "customer_name": "Dana Kaydos",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 89891.0,
+        "Year_Birth": 1991
+    },
+    {
+        "customer_id": "KM-16660",
+        "customer_name": "Khloe Miller",
+        "Education": "PhD",
+        "Marital_Status": "Divorced",
+        "Income": 35946.0,
+        "Year_Birth": 1949
+    },
+    {
+        "customer_id": "AA-10645",
+        "customer_name": "Anna Andreadi",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 53593.0,
+        "Year_Birth": 1953
+    },
+    {
+        "customer_id": "DD-13570",
+        "customer_name": "Dorothy Dickinson",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 66373.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "AH-10465",
+        "customer_name": "Amy Hunt",
+        "Education": "PhD",
+        "Marital_Status": "Divorced",
+        "Income": 45072.0,
+        "Year_Birth": 1948
+    },
+    {
+        "customer_id": "TP-21565",
+        "customer_name": "Tracy Poddar",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 89694.0,
+        "Year_Birth": 1973
+    },
+    {
+        "customer_id": "EK-13795",
+        "customer_name": "Eileen Kiefer",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 72025.0,
+        "Year_Birth": 1949
+    },
+    {
+        "customer_id": "CR-12820",
+        "customer_name": "Cyra Reiten",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 67432.0,
+        "Year_Birth": 1973
+    },
+    {
+        "customer_id": "SG-20890",
+        "customer_name": "Susan Gilcrest",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 70545.0,
+        "Year_Birth": 1952
+    },
+    {
+        "customer_id": "AH-10585",
+        "customer_name": "Angele Hood",
+        "Education": "Basic",
+        "Marital_Status": "Married",
+        "Income": 17487.0,
+        "Year_Birth": 1989
+    },
+    {
+        "customer_id": "NF-18475",
+        "customer_name": "Neil Franz\u00f6sisch",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 62882.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "BS-11365",
+        "customer_name": "Bill Shonely",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 64108.0,
+        "Year_Birth": 1953
+    },
+    {
+        "customer_id": "SH-20635",
+        "customer_name": "Stefanie Holloman",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 34941.0,
+        "Year_Birth": 1956
+    },
+    {
+        "customer_id": "RD-19720",
+        "customer_name": "Roger Demir",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 48767.0,
+        "Year_Birth": 1950
+    },
+    {
+        "customer_id": "AG-10330",
+        "customer_name": "Alex Grayson",
+        "Education": "2n Cycle",
+        "Marital_Status": "Together",
+        "Income": 38702.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "GR-14560",
+        "customer_name": "Georgia Rosenberg",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 82224.0,
+        "Year_Birth": 1964
+    },
+    {
+        "customer_id": "VS-21820",
+        "customer_name": "Vivek Sundaresam",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 83844.0,
+        "Year_Birth": 1952
+    },
+    {
+        "customer_id": "TM-21490",
+        "customer_name": "Tony Molinari",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": 17003.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "TS-21430",
+        "customer_name": "Tom Stivers",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 71163.0,
+        "Year_Birth": 1995
+    },
+    {
+        "customer_id": "DB-13360",
+        "customer_name": "Dennis Bolton",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 33697.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "NR-18550",
+        "customer_name": "Nick Radford",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": 63564.0,
+        "Year_Birth": 1954
+    },
+    {
+        "customer_id": "CS-11860",
+        "customer_name": "Cari Schnelling",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 83443.0,
+        "Year_Birth": 1972
+    },
+    {
+        "customer_id": "MF-18250",
+        "customer_name": "Monica Federle",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 51518.0,
+        "Year_Birth": 1958
+    },
+    {
+        "customer_id": "LW-17125",
+        "customer_name": "Liz Willingham",
+        "Education": "Graduation",
+        "Marital_Status": "Widow",
+        "Income": 58330.0,
+        "Year_Birth": 1975
+    },
+    {
+        "customer_id": "AR-10345",
+        "customer_name": "Alex Russell",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 80952.0,
+        "Year_Birth": 1969
+    },
+    {
+        "customer_id": "KS-16300",
+        "customer_name": "Karen Seio",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 75507.0,
+        "Year_Birth": 1979
+    },
+    {
+        "customer_id": "AB-10015",
+        "customer_name": "Aaron Bergman",
+        "Education": "2n Cycle",
+        "Marital_Status": "Together",
+        "Income": 63855.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "LR-17035",
+        "customer_name": "Lisa Ryan",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 62220.0,
+        "Year_Birth": 1972
+    },
+    {
+        "customer_id": "SS-20410",
+        "customer_name": "Shahid Shariari",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 58512.0,
+        "Year_Birth": 1964
+    },
+    {
+        "customer_id": "JM-15580",
+        "customer_name": "Jill Matthias",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 40662.0,
+        "Year_Birth": 1979
+    },
+    {
+        "customer_id": "JK-15325",
+        "customer_name": "Jason Klamczynski",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 38829.0,
+        "Year_Birth": 1959
+    },
+    {
+        "customer_id": "DM-13525",
+        "customer_name": "Don Miller",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": 35523.0,
+        "Year_Birth": 1981
+    },
+    {
+        "customer_id": "ML-18265",
+        "customer_name": "Muhammed Lee",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 79146.0,
+        "Year_Birth": 1967
+    },
+    {
+        "customer_id": "MH-17290",
+        "customer_name": "Marc Harrigan",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 78285.0,
+        "Year_Birth": 1988
+    },
+    {
+        "customer_id": "FC-14245",
+        "customer_name": "Frank Carlisle",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 31626.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "TH-21115",
+        "customer_name": "Thea Hudgings",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 75127.0,
+        "Year_Birth": 1952
+    },
+    {
+        "customer_id": "JK-16090",
+        "customer_name": "Juliana Krohn",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 48726.0,
+        "Year_Birth": 1955
+    },
+    {
+        "customer_id": "SB-20185",
+        "customer_name": "Sarah Brown",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 74985.0,
+        "Year_Birth": 1977
+    },
+    {
+        "customer_id": "BG-11035",
+        "customer_name": "Barry Gonzalez",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 67430.0,
+        "Year_Birth": 1987
+    },
+    {
+        "customer_id": "BW-11065",
+        "customer_name": "Barry Weirich",
+        "Education": "2n Cycle",
+        "Marital_Status": "Married",
+        "Income": 46891.0,
+        "Year_Birth": 1965
+    },
+    {
+        "customer_id": "MG-18205",
+        "customer_name": "Mitch Gastineau",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 62058.0,
+        "Year_Birth": 1956
+    },
+    {
+        "customer_id": "DO-13645",
+        "customer_name": "Doug O'Connell",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 72063.0,
+        "Year_Birth": 1979
+    },
+    {
+        "customer_id": "BP-11050",
+        "customer_name": "Barry Pond",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 78939.0,
+        "Year_Birth": 1951
+    },
+    {
+        "customer_id": "TS-21655",
+        "customer_name": "Trudy Schmidt",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 42720.0,
+        "Year_Birth": 1965
+    },
+    {
+        "customer_id": "EM-14200",
+        "customer_name": "Evan Minnotte",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 33622.0,
+        "Year_Birth": 1972
+    },
+    {
+        "customer_id": "AO-10810",
+        "customer_name": "Anthony O'Donnell",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 6835.0,
+        "Year_Birth": 1957
+    },
+    {
+        "customer_id": "MH-17440",
+        "customer_name": "Mark Haberlin",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 41452.0,
+        "Year_Birth": 1953
+    },
+    {
+        "customer_id": "SS-20515",
+        "customer_name": "Shirley Schmidt",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 40760.0,
+        "Year_Birth": 1965
+    },
+    {
+        "customer_id": "LD-16855",
+        "customer_name": "Lela Donovan",
+        "Education": "PhD",
+        "Marital_Status": "Together",
+        "Income": 74250.0,
+        "Year_Birth": 1958
+    },
+    {
+        "customer_id": "VP-21760",
+        "customer_name": "Victoria Pisteka",
+        "Education": "Master",
+        "Marital_Status": "Single",
+        "Income": 51124.0,
+        "Year_Birth": 1955
+    },
+    {
+        "customer_id": "TC-21145",
+        "customer_name": "Theresa Coyne",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 72258.0,
+        "Year_Birth": 1971
+    },
+    {
+        "customer_id": "IM-15055",
+        "customer_name": "Ionia McGrath",
+        "Education": "PhD",
+        "Marital_Status": "Single",
+        "Income": 71466.0,
+        "Year_Birth": 1974
+    },
+    {
+        "customer_id": "AR-10570",
+        "customer_name": "Anemone Ratner",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 36283.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "CM-12715",
+        "customer_name": "Craig Molinari",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 20587.0,
+        "Year_Birth": 1970
+    },
+    {
+        "customer_id": "FW-14395",
+        "customer_name": "Fred Wasserman",
+        "Education": "Graduation",
+        "Marital_Status": "Married",
+        "Income": 30467.0,
+        "Year_Birth": 1972
+    },
+    {
+        "customer_id": "LC-16960",
+        "customer_name": "Lindsay Castell",
+        "Education": "Graduation",
+        "Marital_Status": "Together",
+        "Income": 31590.0,
+        "Year_Birth": 1972
+    },
+    {
+        "customer_id": "HE-14800",
+        "customer_name": "Harold Engle",
+        "Education": "Basic",
+        "Marital_Status": "Married",
+        "Income": 20425.0,
+        "Year_Birth": 1986
+    },
+    {
+        "customer_id": "BD-11560",
+        "customer_name": "Brendan Dodson",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 17144.0,
+        "Year_Birth": 1960
+    },
+    {
+        "customer_id": "HD-14785",
+        "customer_name": "Harold Dahlen",
+        "Education": "PhD",
+        "Marital_Status": "Divorced",
+        "Income": 42564.0,
+        "Year_Birth": 1968
+    },
+    {
+        "customer_id": "CJ-11875",
+        "customer_name": "Carl Jackson",
+        "Education": "Master",
+        "Marital_Status": "Married",
+        "Income": 43783.0,
+        "Year_Birth": 1978
+    },
+    {
+        "customer_id": "RS-19870",
+        "customer_name": "Roy Skaria",
+        "Education": "Graduation",
+        "Marital_Status": "Divorced",
+        "Income": 40780.0,
+        "Year_Birth": 1976
+    },
+    {
+        "customer_id": "SC-20845",
+        "customer_name": "Sung Chung",
+        "Education": "Master",
+        "Marital_Status": "Together",
+        "Income": 62847.0,
+        "Year_Birth": 1945
+    },
+    {
+        "customer_id": "RE-19405",
+        "customer_name": "Ricardo Emerson",
+        "Education": "PhD",
+        "Marital_Status": "Married",
+        "Income": 82017.0,
+        "Year_Birth": 1957
+    },
+    {
+        "customer_id": "SM-20905",
+        "customer_name": "Susan MacKendrick",
+        "Education": "Graduation",
+        "Marital_Status": "Single",
+        "Income": 16813.0,
+        "Year_Birth": 1950
+    }
+]
