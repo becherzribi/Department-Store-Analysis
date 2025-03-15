@@ -55,6 +55,6 @@ This project provides a comprehensive analysis of shopping trends in US departme
 ---
 
 ## 📂 GitHub Repository
-For more details, code, and datasets, visit the [GitHub repository](https://github.com/becherzribi//tree/main/Project).
+For more details, code, and datasets, visit the [GitHub repository](https://github.com/becherzribi/Department-Store-Analysis).
 
 ✨ **Thank you for exploring our project!** ✨
